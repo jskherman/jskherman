@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and a little web development**
 
-- 📝 I regularly write articles on [jskherman.com](jskherman.com)
+- 📝 I regularly write articles on [jskherman.com](https://www.jskherman.com)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
