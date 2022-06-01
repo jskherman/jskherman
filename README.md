@@ -11,11 +11,8 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Be like Jonathan](https://www.jskherman.com/posts/nano/be-like-jonathan/)
-- [How to Scrape and Prepare PCSO Lottery Data for Analysis in Excel](https://www.jskherman.com/posts/scraping-lottery-data/)
-- [How to Tackle a Textbook: A Workflow](https://www.jskherman.com/posts/how-to-tackle-a-textbook/)
-- [About](https://www.jskherman.com/about/)
-- [Error 404: Page not found](https://www.jskherman.com/404/)
+- [How to Scrape and Prepare PCSO Lottery Data for Analysis in Excel](/posts/lotto-data/)
+- [How to Tackle a Textbook: A Workflow](/posts/textbook/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
