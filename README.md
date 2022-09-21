@@ -11,8 +11,8 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Scrape and Prepare PCSO Lottery Data for Analysis in Excel](/posts/lotto-data/)
-- [How to Tackle a Textbook: A Workflow](/posts/textbook/)
+- [How to Scrape and Prepare PCSO Lottery Data for Analysis in Excel](https://www.jskherman.com/blog/lotto.html)
+- [How to Tackle a Textbook: A Workflow](https://www.jskherman.com/blog/textbook.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
