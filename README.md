@@ -9,11 +9,23 @@
 
 - 📝 I regularly write articles on [jskherman.com](https://www.jskherman.com)
 
+<table><tr><td valign="top" width="50%">
+
 ### Blog posts
+
 <!-- BLOG-POST-LIST:START -->
-- [How to Scrape and Prepare PCSO Lottery Data for Analysis in Excel](https://www.jskherman.com/posts/lotto-data/)
-- [How to Tackle a Textbook: A Workflow](https://www.jskherman.com/posts/textbook/)
 <!-- BLOG-POST-LIST:END -->
+
+</td>
+
+<td valign="top" width="50%">
+
+### Tweets
+
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
+  
+</td></tr></table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
