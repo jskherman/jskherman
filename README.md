@@ -6,10 +6,7 @@
 <p align="left"> <a href="https://twitter.com/jskherman" target="blank"><img src="https://img.shields.io/twitter/follow/jskherman?logo=twitter&style=for-the-badge" alt="jskherman" /></a> </p>
 
 - 🌱 I’m currently learning **Python and a little web development**
-
 - 📝 I regularly write articles on [jskherman.com](https://www.jskherman.com)
-
-<table><tr><td valign="top" width="50%">
 
 ### Blog posts
 
@@ -17,22 +14,6 @@
 - [How to Scrape and Prepare PCSO Lottery Data for Analysis in Excel](https://www.jskherman.com/posts/lotto-data/)
 - [How to Tackle a Textbook: A Workflow](https://www.jskherman.com/posts/textbook/)
 <!-- BLOG-POST-LIST:END -->
-
-</td>
-
-<td valign="top" width="50%">
-
-### Tweets
-
-<!-- TWITTER:START -->
-- [R to @jskherman: 33.33% complete — We&#39;re 8 hours in.](https://nitter.net/jskherman/status/1581276757038354434#m)
-- [0011000:00:00:00 mood https://youtu.be/onPBDl9kASc](https://nitter.net/jskherman/status/1580791548715085824#m)
-- [This.](https://nitter.net/jskherman/status/1580555496658194432#m)
-- [RT by @jskherman: Obsidian 1.0 is live! 1.0 brings a complete redesign to desktop and mobile. Plus, a new way to browse your second brain: tabs. Tabs make it easier to explore many ideas at once. Learn more: https://obsidian.md/1.0](https://nitter.net/obsdmd/status/1580548874246443010#m)
-- [Drawing a Bahay Kubo with equations, made with help from @SymPy in #Python: https://www.desmos.com/calculator/ww6ic0vbls](https://nitter.net/jskherman/status/1577279353842728960#m)
-<!-- TWITTER:END -->
-  
-</td></tr></table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,4 +25,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jskherman&show_icons=true&locale=en&layout=compact" alt="jskherman" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jskherman&show_icons=true&locale=en&layout=compact" alt="jskherman" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jskherman&show_icons=true&theme=dark&locale=en" alt="jskherman" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jskherman&" alt="jskherman" /></p>
