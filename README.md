@@ -1,32 +1,37 @@
 <h1 align="center">Hi 👋, I'm Je Sian Keith Herman</h1>
-<h3 align="center">A curious INTJ chemical engineering student</h3>
+<h3 align="center">An INTJ chemical engineering student</h3><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jskherman&label=Profile%20views&color=0e75b6&style=flat" alt="jskherman" /> </p>
+🔭 I’m currently working on my website.<br>🌱 I’m currently learning Python and a little web development<br>💡 Fun fact: I have slept on the floor in a hotel.[^1]<br>⚡ See other updates on my [Now page](https://www.jskherman.com/now).
 
-<p align="left"> <a href="https://twitter.com/jskherman" target="blank"><img src="https://img.shields.io/twitter/follow/jskherman?logo=twitter&style=for-the-badge" alt="jskherman" /></a> </p>
+[^1]: Don't try it; it's not worth it.
 
-- 🌱 I’m currently learning **Python and a little web development**
-- 📝 I regularly write articles on [jskherman.com](https://www.jskherman.com)
+### 💻 Socials and Tech Stack:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jskherman)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jskherman) &nbsp;&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 
-### Blog posts
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jskherman) &nbsp;
+[![](https://visitcount.itsvg.in/api?id=jskherman&icon=0&color=8)](https://visitcount.itsvg.in)
+### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Scrape and Prepare PCSO Lottery Data for Analysis in Excel](https://www.jskherman.com/posts/lotto-data/)
 - [How to Tackle a Textbook: A Workflow](https://www.jskherman.com/posts/textbook/)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jskherman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jskherman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jskherman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jskherman" height="30" width="40" /></a>
-<a href="https://www.jskherman.com/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.jskherman.com/index.xml" height="30" width="40" /></a>
-</p>
+### ✍️ Random Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jskherman&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jskherman&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jskherman&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jskherman&show_icons=true&locale=en&layout=compact" alt="jskherman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jskherman&show_icons=true&theme=dark&locale=en" alt="jskherman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jskherman&" alt="jskherman" /></p>
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
