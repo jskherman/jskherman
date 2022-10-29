@@ -25,6 +25,21 @@
 ### Tweets
 
 <!-- TWITTER:START -->
+- [R to @jskherman: 33.33% complete — We&#39;re 8 hours in.](https://nitter.net/jskherman/status/1581276757038354434#m)
+- [0011000:00:00:00 mood
+
+https://youtu.be/onPBDl9kASc](https://nitter.net/jskherman/status/1580791548715085824#m)
+- [This.](https://nitter.net/jskherman/status/1580555496658194432#m)
+- [RT by @jskherman: Obsidian 1.0 is live!
+
+1.0 brings a complete redesign to desktop and mobile.
+
+Plus, a new way to browse your second brain: tabs. Tabs make it easier to explore many ideas at once.
+
+Learn more: https://obsidian.md/1.0](https://nitter.net/obsdmd/status/1580548874246443010#m)
+- [Drawing a Bahay Kubo with equations, made with help from @SymPy in #Python:
+
+https://www.desmos.com/calculator/ww6ic0vbls](https://nitter.net/jskherman/status/1577279353842728960#m)
 <!-- TWITTER:END -->
   
 </td></tr></table>
