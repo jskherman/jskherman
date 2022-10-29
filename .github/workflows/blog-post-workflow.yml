@@ -17,10 +17,10 @@ jobs:
           remove_duplicates: true
           comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://www.jskherman.com/index.xml"
-      - name: Pull in Tweets
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          remove_duplicates: true
-          comment_tag_name: "TWITTER"
-          feed_list: "https://nitter.net/jskherman/rss"
+#       - name: Pull in Tweets
+#         uses: gautamkrishnar/blog-post-workflow@master
+#         with:
+#           remove_duplicates: true
+#           comment_tag_name: "TWITTER"
+#           feed_list: "https://nitter.net/jskherman/rss"
 
