@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Je Sian Keith Herman</h1>
 <h3 align="center">An INTJ chemical engineering student</h3><br>
 
-🔭 I’m currently working on my [website](https://www.jskherman.com).<br>🌱 I’m currently learning Python and a little web development<br>💡 Fun fact: I have slept on the floor in a hotel.[^1]<br>⚡ See other updates on my [Now page](https://www.jskherman.com/now).
+🔭 I’m currently working on my [website](https://www.jskherman.com).<br>🌱 I’m currently learning Python and a little web development<br>💡 Fun fact: I had once slept on the floor in a hotel.[^1]<br>⚡ See other updates on my [Now page](https://www.jskherman.com/now).
 
 [^1]: Don't try it; it's not worth it.
 
