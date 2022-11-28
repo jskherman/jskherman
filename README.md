@@ -19,11 +19,11 @@
 
 ### 📝 Recent [Blog Posts](https://www.jskherman.com)
 <!-- BLOG-POST-LIST:START -->
+- [Saving sessions in my browser](https://www.jskherman.com/posts/sessions/)
 - [bilious](https://www.jskherman.com/posts/bilious/)
 - [Calculating marginal improvement in the 1% Rule](https://www.jskherman.com/posts/marginal-improvement/)
 - [encapsulate](https://www.jskherman.com/posts/encapsulate/)
 - [Blogging using the Word of the Day](https://www.jskherman.com/posts/word-of-the-day/)
-- [How to Scrape and Prepare PCSO Lottery Data for Analysis in Excel](https://www.jskherman.com/posts/lotto-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✍️ Random Quote
