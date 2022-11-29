@@ -19,7 +19,7 @@
 
 ### 📝 Recent [Blog Posts](https://www.jskherman.com)
 <!-- BLOG-POST-LIST:START -->
-- [Saving sessions in my browser](https://www.jskherman.com/posts/sessions/)
+- [How I keep tabs of my sessions in the browser](https://www.jskherman.com/posts/sessions/)
 - [bilious](https://www.jskherman.com/posts/bilious/)
 - [Calculating marginal improvement in the 1% Rule](https://www.jskherman.com/posts/marginal-improvement/)
 - [encapsulate](https://www.jskherman.com/posts/encapsulate/)
