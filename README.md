@@ -20,7 +20,6 @@
 <table><tr><td valign="top" width="50%">
 ### 📝 Recent Blog Posts
 
-### 📝 Recent [Blog Posts](https://www.jskherman.com)
 <!-- BLOG-POST-LIST:START -->
 - [How I keep tabs of my sessions in the browser](https://www.jskherman.com/posts/sessions/)
 - [bilious](https://www.jskherman.com/posts/bilious/)
@@ -30,7 +29,7 @@
 - [How to Scrape and Prepare PCSO Lottery Data for Analysis in Excel](https://www.jskherman.com/posts/lotto-data/)
 - [How to Tackle a Textbook: A Workflow](https://www.jskherman.com/posts/textbook/)
 <!-- BLOG-POST-LIST:END -->
-- [More Posts](https://www.jskherman.com/posts/)
+- [> *More Posts*](https://www.jskherman.com/posts/)
 </td><td valign="top" width="50%">
 
 ### 🔖 Recent Notes
@@ -43,6 +42,7 @@
 - [Temporal Motivation Theory](https://notes.jskherman.com/02-mems/Temporal-Motivation-Theory/)
 - [Self-determination theory](https://notes.jskherman.com/02-mems/Self-determination-theory/)
 <!-- NOTE-LIST:END -->
+- [> *More Notes*](https://notes.jskherman.com/)
 </td></tr></table>
 
 ### ✍️ Random Quote
