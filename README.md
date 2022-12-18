@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Je Sian Keith Herman</h1>
 <h3 align="center">An INTJ chemical engineering student</h3><br>
 
-🔭 I’m currently working on my website.<br>🌱 I’m currently learning Python and a little web development<br>💡 Fun fact: I have slept on the floor in a hotel.[^1]<br>⚡ See other updates on my [Now page](https://www.jskherman.com/now).
+🔭 I’m currently working on my [website](https://www.jskherman.com).<br>🌱 I’m currently learning Python and a little web development<br>💡 Fun fact: I had once slept on the floor in a hotel.[^1]<br>⚡ See other updates on my [Now page](https://www.jskherman.com/now).
 
 [^1]: Don't try it; it's not worth it.
 
@@ -20,9 +20,13 @@
 <table><tr><td valign="top" width="50%">
 ### 📝 Recent Blog Posts
 
+### 📝 Recent [Blog Posts](https://www.jskherman.com)
 <!-- BLOG-POST-LIST:START -->
-- [How to Scrape and Prepare PCSO Lottery Data for Analysis in Excel](https://www.jskherman.com/posts/lotto-data/)
-- [How to Tackle a Textbook: A Workflow](https://www.jskherman.com/posts/textbook/)
+- [How I keep tabs of my sessions in the browser](https://www.jskherman.com/posts/sessions/)
+- [bilious](https://www.jskherman.com/posts/bilious/)
+- [Calculating marginal improvement in the 1% Rule](https://www.jskherman.com/posts/marginal-improvement/)
+- [encapsulate](https://www.jskherman.com/posts/encapsulate/)
+- [Blogging using the Word of the Day](https://www.jskherman.com/posts/word-of-the-day/)
 <!-- BLOG-POST-LIST:END -->
 - [More Posts](https://www.jskherman.com/posts/)
 </td><td valign="top" width="50%">
@@ -40,7 +44,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jskherman&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jskherman&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
