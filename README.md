@@ -27,6 +27,8 @@
 - [Calculating marginal improvement in the 1% Rule](https://www.jskherman.com/posts/marginal-improvement/)
 - [encapsulate](https://www.jskherman.com/posts/encapsulate/)
 - [Blogging using the Word of the Day](https://www.jskherman.com/posts/word-of-the-day/)
+- [How to Scrape and Prepare PCSO Lottery Data for Analysis in Excel](https://www.jskherman.com/posts/lotto-data/)
+- [How to Tackle a Textbook: A Workflow](https://www.jskherman.com/posts/textbook/)
 <!-- BLOG-POST-LIST:END -->
 - [More Posts](https://www.jskherman.com/posts/)
 </td><td valign="top" width="50%">
