@@ -35,6 +35,13 @@
 
 ### 🔖 Recent Notes
 <!-- NOTE-LIST:START -->
+- [Guide to learning Chemical Engineering](https://notes.jskherman.com/02-mems/Guide-to-learning-Chemical-Engineering/)
+- [Guide to learning Quantum Computing](https://notes.jskherman.com/02-mems/Guide-to-learning-Quantum-Computing/)
+- [MOC](https://notes.jskherman.com/01-index/MOC/)
+- [Thermodynamic equilibrium equals death for cells](https://notes.jskherman.com/02-mems/Thermodynamic-equilibrium-equals-death-for-cells/)
+- [The advantage of strong currencies is in the gap between market rate and purchasing power parity](https://notes.jskherman.com/02-mems/The-advantage-of-strong-currencies-is-in-the-gap-between-market-rate-and-purchasing-power-parity/)
+- [Temporal Motivation Theory](https://notes.jskherman.com/02-mems/Temporal-Motivation-Theory/)
+- [Self-determination theory](https://notes.jskherman.com/02-mems/Self-determination-theory/)
 <!-- NOTE-LIST:END -->
 </td></tr></table>
 
