@@ -16,12 +16,21 @@
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jskherman) &nbsp;
 [![](https://visitcount.itsvg.in/api?id=jskherman&icon=0&color=8)](https://visitcount.itsvg.in)
+
+<table><tr><td valign="top" width="50%">
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Scrape and Prepare PCSO Lottery Data for Analysis in Excel](https://www.jskherman.com/posts/lotto-data/)
 - [How to Tackle a Textbook: A Workflow](https://www.jskherman.com/posts/textbook/)
 <!-- BLOG-POST-LIST:END -->
+- [More Posts](https://www.jskherman.com/posts/)
+</td><td valign="top" width="50%">
+
+### 🔖 Recent Notes
+<!-- NOTE-LIST:START -->
+<!-- NOTE-LIST:END -->
+</td></tr></table>
 
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
