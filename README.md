@@ -23,10 +23,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How I keep tabs of my sessions in the browser](https://www.jskherman.com/posts/sessions/)
-- [bilious](https://www.jskherman.com/posts/bilious/)
 - [Calculating marginal improvement in the 1% Rule](https://www.jskherman.com/posts/marginal-improvement/)
-- [encapsulate](https://www.jskherman.com/posts/encapsulate/)
-- [Blogging using the Word of the Day](https://www.jskherman.com/posts/word-of-the-day/)
 - [How to Scrape and Prepare PCSO Lottery Data for Analysis in Excel](https://www.jskherman.com/posts/lotto-data/)
 - [How to Tackle a Textbook: A Workflow](https://www.jskherman.com/posts/textbook/)
 <!-- BLOG-POST-LIST:END -->
