@@ -32,13 +32,13 @@
 
 ### 🔖 Recent Notes
 <!-- NOTE-LIST:START -->
+- [Deta Micros](https://notes.jskherman.com/02-mems/Deta-Micros/)
+- [Deta Base](https://notes.jskherman.com/02-mems/Deta-Base/)
 - [Facebook Birthday Bot](https://notes.jskherman.com/02-mems/Facebook-birthday-greetings-bot/)
 - [Asking AI](https://notes.jskherman.com/01-index/Asking-AI-stuff/)
 - [Finding the length required for Christmas tree lights](https://notes.jskherman.com/02-mems/Finding-the-length-required-for-Christmas-tree-lights/)
 - [Signalling](https://notes.jskherman.com/02-mems/Signalling/)
 - [Guide to learning Chemical Engineering](https://notes.jskherman.com/02-mems/Guide-to-learning-Chemical-Engineering/)
-- [Guide to learning Quantum Computing](https://notes.jskherman.com/02-mems/Guide-to-learning-Quantum-Computing/)
-- [MOC](https://notes.jskherman.com/01-index/MOC/)
 <!-- NOTE-LIST:END -->
 - [> *More Notes*](https://notes.jskherman.com/)
 </td></tr></table>
