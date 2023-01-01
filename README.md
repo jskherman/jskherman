@@ -24,7 +24,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [How I keep tabs of my sessions in the browser](https://www.jskherman.com/posts/sessions/)
 - [Calculating marginal improvement in the 1% Rule](https://www.jskherman.com/posts/marginal-improvement/)
-- [How to Scrape and Prepare PCSO Lottery Data for Analysis in Excel](https://www.jskherman.com/posts/lotto-data/)
+- [Power Up Your Lottery Play: Scrape and Analyze PCSO Results in Excel](https://www.jskherman.com/posts/lotto-data/)
 - [How to Tackle a Textbook: A Workflow](https://www.jskherman.com/posts/textbook/)
 <!-- BLOG-POST-LIST:END -->
 - [> *More Posts*](https://www.jskherman.com/posts/)
