@@ -17,7 +17,7 @@
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jskherman) &nbsp;
 [![](https://visitcount.itsvg.in/api?id=jskherman&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 ### 📝 Recent Blog Posts
 
@@ -29,20 +29,11 @@
 - [How to Tackle a Textbook: A Workflow](https://www.jskherman.com/posts/textbook/)
 <!-- BLOG-POST-LIST:END -->
 - [> *More Posts*](https://www.jskherman.com/posts/)
-</td><td valign="top" width="50%">
-
-### 🔖 Recent Notes
-<!-- NOTE-LIST:START -->
-- [Deta Micros](https://notes.jskherman.com/02-mems/Deta-Micros/)
-- [Deta Base](https://notes.jskherman.com/02-mems/Deta-Base/)
-- [Facebook Birthday Bot](https://notes.jskherman.com/02-mems/Facebook-birthday-greetings-bot/)
-- [Asking AI](https://notes.jskherman.com/01-index/Asking-AI-stuff/)
-- [Finding the length required for Christmas tree lights](https://notes.jskherman.com/02-mems/Finding-the-length-required-for-Christmas-tree-lights/)
-- [Signalling](https://notes.jskherman.com/02-mems/Signalling/)
-- [Guide to learning Chemical Engineering](https://notes.jskherman.com/02-mems/Guide-to-learning-Chemical-Engineering/)
-<!-- NOTE-LIST:END -->
-- [> *More Notes*](https://notes.jskherman.com/)
-</td></tr></table>
+</td>
+<!-- <td valign="top" width="0%">
+### 🔖 Recent ___
+</td> -->
+</tr></table>
 
 <!-- ### ✍️ Random Quote -->
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
