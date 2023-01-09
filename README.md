@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Je Sian Keith Herman</h1>
 <h3 align="center">An INTJ Chemical Engineering student</h3><br>
 
-🔭  I’m currently working on a [personal dashboard on various statistics](https://www.jskherman.com/posts/github-commits/) about myself using data from sources like [Todoist](https://todoist.com/) and [Toggl Track](https://track.toggl.com) via APIs.<br>
+🔭  I’m currently working on a [personal dashboard on various statistics](https://www.jskherman.com/posts/github-commits/) about myself using data from various sources.<br>
 🌱  I’m currently learning Python and a little web development<br>
 💡  Fun fact: I had once slept on the floor in a hotel.[^1]<br>
 ⚡  See other updates on my [Now page](https://www.jskherman.com/now).<br>
