@@ -26,11 +26,10 @@
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Script for Exporting a GitHub User&#39;s Daily Commit Data to CSV](https://www.jskherman.com/posts/github-commits/)
-- [How I keep tabs of my sessions in the browser](https://www.jskherman.com/posts/sessions/)
+- [Exporting all of my GitHub Contributions History](https://www.jskherman.com/posts/github-contributions/)
 - [Calculating marginal improvement in the 1% Rule](https://www.jskherman.com/posts/marginal-improvement/)
-- [Power Up Your Lottery Play: Scrape and Analyze PCSO Results in Excel](https://www.jskherman.com/posts/lotto-data/)
-- [How to Tackle a Textbook: A Workflow](https://www.jskherman.com/posts/textbook/)
+- [Scraping PCSO Lottery Data to Excel with Python](https://www.jskherman.com/posts/lotto-data/)
+- [How to tackle a Textbook](https://www.jskherman.com/posts/tackle-textbook/)
 <!-- BLOG-POST-LIST:END -->
 - [> *More Posts*](https://www.jskherman.com/posts/)
 </td>
