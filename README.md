@@ -26,13 +26,13 @@
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thank You!](https://jskherman.com/thank-you/)
 - [Exporting all of my GitHub Contributions History](https://jskherman.com/blog/github-contributions/)
 - [Calculating marginal improvement in the 1% Rule](https://jskherman.com/blog/marginal-improvement/)
+- [Archives](https://jskherman.com/archives/)
 - [Scraping PCSO Lottery Data to Excel with Python](https://jskherman.com/blog/lotto-data/)
 - [How to tackle a Textbook](https://jskherman.com/blog/tackle-textbook/)
 - [The Past](https://jskherman.com/past/)
-- [About](https://jskherman.com/about/)
-- [Now](https://jskherman.com/now/)
 <!-- BLOG-POST-LIST:END -->
 - [> *More Posts*](https://www.jskherman.com/posts/)
 </td>
