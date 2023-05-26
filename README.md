@@ -34,7 +34,8 @@
 - [Calculating marginal improvement in the 1% Rule](https://jskherman.com/til/marginal-improvement/)
 - [Scraping PCSO Lottery Data to Excel with Python](https://jskherman.com/blog/lotto-data/)
 <!-- BLOG-POST-LIST:END -->
-- [> *More Posts*](https://www.jskherman.com/posts/)
+- [> *More Posts*](https://jskherman.com/)
+ 
 </td>
 <!-- <td valign="top" width="0%">
 ### 🔖 Recent ___
