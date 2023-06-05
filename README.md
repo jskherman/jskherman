@@ -26,13 +26,13 @@
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Applying multiple variable transforms in VS Code Snippets](https://jskherman.com/til/vscode-snippets/)
+- [Git Word-Diff and Wayback Machine Extension](https://jskherman.com/til/git-wayback/)
+- [A New Teto](https://jskherman.com/sitrep/new-teto/)
+- [Applying multiple variable transforms in VS Code Snippets](https://jskherman.com/til/2023-05-24_vscode-snippets/)
 - [Finally finished migrating my website — again &lpar;x4&rpar;](https://jskherman.com/blog/migrating-sites/)
 - [Seeing red](https://jskherman.com/sitrep/seeing-red/)
 - [A random video of Metro Manila](https://jskherman.com/sitrep/manila-video/)
 - [Exporting all of my GitHub Contributions History](https://jskherman.com/blog/github-contributions/)
-- [Calculating marginal improvement in the 1% Rule](https://jskherman.com/til/marginal-improvement/)
-- [Scraping PCSO Lottery Data to Excel with Python](https://jskherman.com/blog/lotto-data/)
 <!-- BLOG-POST-LIST:END -->
 - [> *More Posts*](https://jskherman.com/)
  
