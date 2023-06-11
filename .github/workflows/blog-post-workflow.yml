@@ -16,7 +16,7 @@ jobs:
         with:
           remove_duplicates: true
           comment_tag_name: "BLOG-POST-LIST"
-          feed_list: "https://jskherman.com/feed.xml"
+          feed_list: "https://www.jskherman.com/feed.xml"
           max_post_count: 7
 #       - name: Pull in Working Notes
 #         uses: gautamkrishnar/blog-post-workflow@master
