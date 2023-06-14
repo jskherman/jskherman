@@ -61,10 +61,10 @@
 
 ### 🔖 A Random Three Body Simulation
 
-<video src="https://files.botsin.space/media_attachments/files/110/541/082/139/186/827/original/b8adbd273bdb96f7.mp4" autoplay controls loop>
-
 </td>
 </tr></table>
+
+<video src="https://files.botsin.space/media_attachments/files/110/541/082/139/186/827/original/b8adbd273bdb96f7.mp4" autoplay controls loop>
 
 <!-- ### ✍️ Random Quote -->
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
