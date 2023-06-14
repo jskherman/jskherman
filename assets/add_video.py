@@ -4,7 +4,7 @@ import os
 import re
 
 # Load Access Token
-token = os.environ.get("ACCESS_TOKEN")
+token = os.environ.get("MASTO_ACCESS_TOKEN")
 
 # Create an HTTP connection to the host
 conn = http.client.HTTPSConnection("botsin.space")
