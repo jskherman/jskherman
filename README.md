@@ -1,20 +1,29 @@
 <h1 align="center">Hi 👋, I'm Je Sian Keith Herman</h1>
 <h3 align="center">An INTJ Chemical Engineering student</h3><br>
 
-🔭  I’m currently working on a [personal dashboard on various statistics](https://www.jskherman.com/posts/github-commits/) about myself using data from various sources.<br>
-🌱  I’m currently learning Python and a little web development<br>
-💡  Fun fact: I had once slept on the floor in a hotel.[^1]<br>
-⚡  See other updates on my [Now page](https://www.jskherman.com/now).<br>
+<p>
+
+<img align="right" src="https://www.jskherman.com/about/programming.gif" alt="programming GIF" height=300 />
+
+- 🔭  I’m currently working on a [personal dashboard on various statistics](https://www.jskherman.com/posts/github-commits/) about myself using data from various sources.<br>
+- 🌱  I’m currently learning Python and a little web development<br>
+- 💡  Fun fact: I had once slept on the floor in a hotel.[^1]<br>
+- ⚡  See other updates on my [Now page](https://www.jskherman.com/now).<br>
 📧  Contact me [directly](https://www.jskherman.com/about/#contact-me), on [Twitter](https://twitter.com/jskherman), or [LinkedIn](https://linkedin.com/in/jskherman).
 
 [^1]: Don't try it; it's not worth it.
+
+</p>
 
 ### 💬 Socials
 
 <div align="center">
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jskherman) &nbsp;
-[![](https://visitcount.itsvg.in/api?id=jskherman&icon=0&color=8)](https://visitcount.itsvg.in)
+[![PayPal]()]()
+
+<a href="https://www.jskherman.com"><img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fwww.jskherman.com" height="25" alt="website" /></a>&nbsp;
+<a href="https://github.com/jskherman" target="blank"><img src="https://komarev.com/ghpvc/?username=jskherman&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count" /></a>&nbsp;
+<a href="https://paypal.me/jskherman"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="25" alt="paypal" /></a>&nbsp;
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jskherman)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jskherman)
