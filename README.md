@@ -19,8 +19,6 @@
 
 <div align="center">
 
-[![PayPal]()]()
-
 <a href="https://www.jskherman.com"><img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fwww.jskherman.com" height="25" alt="website" /></a>&nbsp;
 <a href="https://github.com/jskherman" target="blank"><img src="https://komarev.com/ghpvc/?username=jskherman&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count" /></a>&nbsp;
 <a href="https://paypal.me/jskherman"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="25" alt="paypal" /></a>&nbsp;
