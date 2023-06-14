@@ -53,10 +53,8 @@ with open(readme_path, "r") as file:
     content = file.read()
 
 # Find the target string
-string = '<!-- THREE-BODY-LIST:START -->\n<video type="mp4" height="100%" src="'
-target_string = (
-    r'<!-- THREE-BODY-LIST:START -->\n<video type="mp4" height="100%" src=".*'
-)
+string = '<video type="mp4" height="100%" src="'
+target_string = r'<video type="mp4" height="100%" src=".*'
 
 # Define replacement string
 replacement = string + video_url + '" autoplay controls loop>'

@@ -60,11 +60,9 @@
 <td valign="top" width="50%">
 
 ### 🔖 A Random Three Body Simulation
-<br>
-<p>
-<!-- THREE-BODY-LIST:START -->
+
 <video type="mp4" height="100%" src="https://files.botsin.space/media_attachments/files/110/541/082/139/186/827/original/b8adbd273bdb96f7.mp4" autoplay controls loop>
-</p>
+
 </td>
 </tr></table>
 
