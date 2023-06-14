@@ -40,7 +40,7 @@
 </p>
 <br>
 
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="60%">
 
 ### 📝 Recent Blog Posts
 
@@ -57,15 +57,23 @@
 [👉 *More Posts*](https://www.jskherman.com/)
  
 </td>
-<!-- <td valign="top" width="0%">
-### 🔖 Recent ___
-</td> -->
+<td valign="top" width="40%">
+
+### 🔖 A Random Three Body Simulation
+<br>
+
+<!-- THREE-BODY-LIST:START -->
+<video type="mp4" height="100%" src="https://files.botsin.space/media_attachments/files/110/541/082/139/186/827/original/b8adbd273bdb96f7.mp4" autoplay controls loop>
+<!-- THREE-BODY-LIST:END -->
+
+</td>
 </tr></table>
 
 <!-- ### ✍️ Random Quote -->
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 ### 📊 GitHub Stats:
+
 <!-- ![](https://github-readme-stats.vercel.app/api?username=jskherman&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 
 <table><td></td></table>
