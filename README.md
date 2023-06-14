@@ -67,8 +67,6 @@
 <!-- ### ✍️ Random Quote -->
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
-https://files.botsin.space/media_attachments/files/110/541/082/139/186/827/original/b8adbd273bdb96f7.mp4
-
 ### 📊 GitHub Stats:
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=jskherman&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
