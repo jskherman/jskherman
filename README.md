@@ -9,17 +9,33 @@
 
 [^1]: Don't try it; it's not worth it.
 
-### 💻 Socials and Tech Stack:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jskherman)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jskherman) &nbsp;&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+### 💬 Socials
+
+<div align="center">
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jskherman) &nbsp;
 [![](https://visitcount.itsvg.in/api?id=jskherman&icon=0&color=8)](https://visitcount.itsvg.in)
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jskherman)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jskherman)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/jskherman)
+[![ActivityPub](https://skillicons.dev/icons?i=mastodon)](https://social.jskherman.com/jsk)
+
+</div>
+
+### 💻 Tech Stuff
+
+<p align="center">
+  <a href="https://www.jskherman.com">
+    <img src="https://skillicons.dev/icons?i=vscode,cloudflare,netlify,docker,html,css,latex" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,regex,matlab,octave,postgres,python,bots" />
+    <br>
+    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white" />
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" />
+  </a>
+</p>
+<br>
 
 <table><tr><td valign="top" width="100%">
 
@@ -34,7 +50,8 @@
 - [Scraping PCSO Lottery Data to Excel with Python](https://jskherman.com/blog/lotto-data/)
 - [How to tackle a Textbook](https://jskherman.com/blog/tackle-textbook/)
 <!-- BLOG-POST-LIST:END -->
-- [> *More Posts*](https://jskherman.com/)
+
+[👉 *More Posts*](https://www.jskherman.com/)
  
 </td>
 <!-- <td valign="top" width="0%">
@@ -47,8 +64,10 @@
 
 ### 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=jskherman&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=jskherman&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jskherman&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<table><td></td></table>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=jskherman&theme=chartreuse-dark&hide_border=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=jskherman&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
