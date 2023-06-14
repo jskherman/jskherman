@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Je Sian Keith Herman</h1>
 <h3 align="center">An INTJ Chemical Engineering student</h3><br>
 
-<img align="right" src="https://www.jskherman.com/about/programming.gif" alt="programming GIF" height=300 />
+<!-- <img align="right" src="https://www.jskherman.com/about/programming.gif" alt="programming GIF" height=300 /> -->
 
 - 🔭  I’m currently working on a [personal dashboard on various statistics](https://www.jskherman.com/posts/github-commits/) about myself using data from various sources.<br>
 - 🌱  I’m currently learning Python and a little web development<br>
 - 💡  Fun fact: I had once slept on the floor in a hotel.[^1]<br>
 - ⚡  See other updates on my [Now page](https://www.jskherman.com/now).<br>
-📧  Contact me [directly](https://www.jskherman.com/about/#contact-me), on [Twitter](https://twitter.com/jskherman), or [LinkedIn](https://linkedin.com/in/jskherman).
+- 📧  Contact me [directly](https://www.jskherman.com/about/#contact-me), on [Twitter](https://twitter.com/jskherman), or [LinkedIn](https://linkedin.com/in/jskherman).
 
 [^1]: Don't try it; it's not worth it.
 
