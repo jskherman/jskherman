@@ -14,21 +14,21 @@
 
 <div align="center">
 
-<a href="https://www.jskherman.com"><img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fwww.jskherman.com" height="25" alt="website" /></a>&nbsp;
-<a href="https://github.com/jskherman" target="blank"><img src="https://komarev.com/ghpvc/?username=jskherman&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count" /></a>&nbsp;
-<a href="https://paypal.me/jskherman"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="25" alt="paypal" /></a>&nbsp;
+<a href="https://www.jskherman.com" target="_blank"><img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fwww.jskherman.com" height="25" alt="website" /></a>&nbsp;
+<a href="https://github.com/jskherman"><img src="https://komarev.com/ghpvc/?username=jskherman&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count" /></a>&nbsp;
+<a href="https://paypal.me/jskherman" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="25" alt="paypal" /></a>&nbsp;
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jskherman)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jskherman)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/jskherman)
-[![ActivityPub](https://skillicons.dev/icons?i=mastodon)](https://social.jskherman.com/jsk)
+<a href="https://linkedin.com/in/jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+<a href="https://twitter.com/jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter" /></a>
+<a href="https://github.com/jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
+<a href="https://social.jskherman.com/jsk" target="_blank"><img src="https://skillicons.dev/icons?i=mastodon" alt="ActivityPub" /></a>
 
 </div>
 
 ### 💻 Tech Stuff
 
 <p align="center">
-  <a href="https://www.jskherman.com">
+  <a href="https://www.jskherman.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode,cloudflare,netlify,docker,html,css,latex" />
     <br>
     <img src="https://skillicons.dev/icons?i=git,regex,matlab,octave,postgres,python,bots" />
