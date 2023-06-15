@@ -44,13 +44,13 @@
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Word-Diff and Wayback Machine Extension](https://jskherman.com/til/git-wayback/)
-- [Applying multiple variable transforms in VS Code Snippets](https://jskherman.com/til/2023-05-24_vscode-snippets/)
-- [Finally finished migrating my website — again &lpar;x4&rpar;](https://jskherman.com/blog/migrating-sites/)
-- [Exporting all of my GitHub Contributions History](https://jskherman.com/blog/github-contributions/)
-- [Calculating marginal improvement in the 1% Rule](https://jskherman.com/til/2022-11-10_marginal-improvement/)
-- [Scraping PCSO Lottery Data to Excel with Python](https://jskherman.com/blog/lotto-data/)
-- [How to tackle a Textbook](https://jskherman.com/blog/tackle-textbook/)
+- [Git Word-Diff and Wayback Machine Extension](https://www.jskherman.com/til/git-wayback/)
+- [Applying multiple variable transforms in VS Code Snippets](https://www.jskherman.com/til/2023-05-24_vscode-snippets/)
+- [Finally finished migrating my website — again &lpar;x4&rpar;](https://www.jskherman.com/blog/migrating-sites/)
+- [Exporting all of my GitHub Contributions History](https://www.jskherman.com/blog/github-contributions/)
+- [Calculating marginal improvement in the 1% Rule](https://www.jskherman.com/til/2022-11-10_marginal-improvement/)
+- [Scraping PCSO Lottery Data to Excel with Python](https://www.jskherman.com/blog/lotto-data/)
+- [How to tackle a Textbook](https://www.jskherman.com/blog/tackle-textbook/)
 <!-- BLOG-POST-LIST:END -->
 
 [👉 *More Posts*](https://www.jskherman.com/)
