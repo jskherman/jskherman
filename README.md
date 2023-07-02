@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
 <a href="https://twitter.com/jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter" /></a>
 <a href="https://github.com/jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
-<a href="https://social.jskherman.com/jsk" target="_blank"><img src="https://skillicons.dev/icons?i=mastodon" alt="ActivityPub" /></a>
+<a href="https://calckey.social/@jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=mastodon" alt="ActivityPub" /></a>
 
 </div>
 
