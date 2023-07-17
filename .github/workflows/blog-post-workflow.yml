@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2.5.0
+        uses: actions/checkout@v3
       - name: Pull in Blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -23,5 +23,5 @@ jobs:
         with:
           remove_duplicates: true
           comment_tag_name: "TOOT-LIST"
-          feed_list: "https://calckey.social/@jskherman.rss"
+          feed_list: "https://calckey.social/@jskherman.atom"
           max_post_count: 7
