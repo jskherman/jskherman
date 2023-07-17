@@ -39,7 +39,7 @@
 </p>
 <br>
 
-<table><tr><td valign="top" width="60%">
+<table><tr><td valign="top" width="55%">
 
 ### 📝 Recent Blog Posts
 
@@ -61,6 +61,15 @@
 ### 🔖 A Random Three Body Simulation
 
 </td> -->
+
+<td valign="top" width="45%">
+
+### 🎺 Recent Toots
+
+<!-- TOOT-LIST:START -->
+<!-- TOOT-LIST:END -->
+
+</td>
 </tr></table>
 
 <!-- ### ✍️ Random Quote -->

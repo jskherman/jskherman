@@ -18,10 +18,10 @@ jobs:
           comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://www.jskherman.com/feed.xml"
           max_post_count: 7
-#       - name: Pull in Working Notes
-#         uses: gautamkrishnar/blog-post-workflow@master
-#         with:
-#           remove_duplicates: true
-#           comment_tag_name: "NOTE-LIST"
-#           feed_list: "https://notes.jskherman.com/index.xml"
-#           max_post_count: 7
+      - name: Pull in Toots
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          remove_duplicates: true
+          comment_tag_name: "TOOT-LIST"
+          feed_list: "https://calckey.social/@jskherman.rss"
+          max_post_count: 7
