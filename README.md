@@ -69,6 +69,10 @@
 
 <ul>
 <!-- TOOT-LIST:START -->
+<li><a href='https://calckey.social/notes/9halzat4ndpu3o8n' target='_blank'>Jesh replies: </a><p>
+
+@nasa@social.beachcom.org 🌏 <span class="reply_note without_img"></span><hr>NASA(@nasa@social.beachcom.org) says: <br>What’s your favorite emoji? We can’t decide between these! 🌍🌎🌏 #WorldEmojiDay
+#NASAEarth</p></li>
 <li><a href='https://calckey.social/notes/9hacgn7klf11d48z' target='_blank'>Jesh says: </a><p>
 
 nice. <br><img src="https://storage.serverius.net/ffmedia:social/social/7a2352a5-22a3-4974-95e1-d16f782083dd.jpeg"> <span class="new_note with_img"></span></p></li>
@@ -76,10 +80,7 @@ nice. <br><img src="https://storage.serverius.net/ffmedia:social/social/7a2352a5
 
  <span class="renote_note without_img"></span><hr>Mercurius Goldstein(@MercG@mindly.social) says: <br>Pls boost so I can show my wife how a toot can go round the world
  
-(we are boarding a long haul flight and will be on the other side of the world when I turn my phone back on, so even with 0 boosts I think this will be a sound demonstration)</p></li>
-<li><a href='https://calckey.social/notes/9ha5pkyltppkdcv6' target='_blank'>Jesh says: </a><p>
-
-Ooh, just discovered [myNoise.net](https://mynoise.net) and the sounds are awesome! I particularly like the [Quantum Polarity](https://mynoise.net/NoiseMachines/coolQuantifyMusicGenerator.php?l=50505050505050505050&d=14&title=Quantum%20Polarity) sound generator. It feels like cyber space. <span class="new_note without_img"></span></p></li><!-- TOOT-LIST:END -->
+(we are boarding a long haul flight and will be on the other side of the world when I turn my phone back on, so even with 0 boosts I think this will be a sound demonstration)</p></li><!-- TOOT-LIST:END -->
 </ul>
 
 </td>
