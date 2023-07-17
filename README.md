@@ -94,5 +94,6 @@ Ooh, just discovered [myNoise.net](https://mynoise.net) and the sounds are aweso
 <table><td></td></table>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jskherman&theme=dark&hide_border=true)&emsp;&emsp;
+![](https://readme-stats-ten-alpha.vercel.app/api/top-langs/?username=jskherman&theme=dark&hide_border=true&include_all_commits=true&count_private=true)&emsp;&emsp;
 ![jskherman's GitHub stats](https://readme-stats-ten-alpha.vercel.app/api?username=jskherman&rank_icon=github&theme=dark&hide_border=true&show_icons=true)&emsp;&emsp;
-![](https://readme-stats-ten-alpha.vercel.app/api/top-langs/?username=jskherman&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
