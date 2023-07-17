@@ -66,13 +66,10 @@
 
 ### 🎺 Recent Toots
 
+<ul>
 <!-- TOOT-LIST:START -->
-- [Jesh says](https://calckey.social/notes/9hacgn7klf11d48z): nice. &lt;br&gt;&lt;img src=&quot;https://storage.serverius.net/ffmedia:social/social/c1ff0329-ba0b-4023-b080-8ef1ca5ac593.png&quot;&gt; &lt;span class=&quot;new_note with_img&quot;&gt;&lt;/span&gt;
-- [Jesh renotes](https://calckey.social/notes/9ha95ppstgnjbs7u):  &lt;span class=&quot;renote_note without_img&quot;&gt;&lt;/span&gt;&lt;hr&gt;Mercurius Goldstein&lpar;@MercG@mindly.social&rpar; says: &lt;br&gt;Pls boost so I can show my wife how a toot can go round the world
- 
-&lpar;we are boarding a long haul flight and will be on the other side of the world when I turn my phone back on, so even with 0 boosts I think this will be a sound demonstration&rpar;
-- [Jesh says](https://calckey.social/notes/9ha5pkyltppkdcv6): Ooh, just discovered [myNoise.net]&lpar;https://mynoise.net&rpar; and the sounds are awesome! I particularly like the [Quantum Polarity]&lpar;https://mynoise.net/NoiseMachines/coolQuantifyMusicGenerator.php?l=50505050505050505050&amp;d=14&amp;title=Quantum%20Polarity&rpar; sound generator. It feels like cyber space. &lt;span class=&quot;new_note without_img&quot;&gt;&lt;/span&gt;
-- [Jesh says](https://calckey.social/notes/9ha4px5yn133osm5): Lol, it only just clicked for me now that [Fly.io]&lpar;https://fly.io&rpar;&#39;s catchphrase is along the lines of...
+<!-- TOOT-LIST:END -->
+</ul>
 
 &gt; Spin up a VM on the **fly**. &lt;span class=&quot;new_note without_img&quot;&gt;&lt;/span&gt;
 - [Jesh renotes](https://calckey.social/notes/9h9sstuxhh2viqy3):  &lt;span class=&quot;renote_note without_img&quot;&gt;&lt;/span&gt;&lt;hr&gt;Kainoa &lpar;@kainoa@calckey.social&rpar; says: &lt;br&gt;I know a lot of people say &quot;stop saying &#39;Mastodon&#39; when you mean &#39;Fediverse&#39;!&quot;
