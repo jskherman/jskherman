@@ -71,13 +71,6 @@
 <!-- TOOT-LIST:END -->
 </ul>
 
-&gt; Spin up a VM on the **fly**. &lt;span class=&quot;new_note without_img&quot;&gt;&lt;/span&gt;
-- [Jesh renotes](https://calckey.social/notes/9h9sstuxhh2viqy3):  &lt;span class=&quot;renote_note without_img&quot;&gt;&lt;/span&gt;&lt;hr&gt;Kainoa &lpar;@kainoa@calckey.social&rpar; says: &lt;br&gt;I know a lot of people say &quot;stop saying &#39;Mastodon&#39; when you mean &#39;Fediverse&#39;!&quot;
-
-And while I agree, I&#39;m also gonna say that you should stop saying &#39;Fediverse&#39; when you mean &#39;Mastodon&#39;. The Fediverse doesn&#39;t have those limitations, Mastodon does. The Fediverse doesn&#39;t have to be ugly, Mastodon is. The Fediverse supports all these features like long posts, quotes, emoji reactions, whatever, Mastodon doesn&#39;t.
-- [Jesh renotes](https://calckey.social/notes/9h9sryh0ty358zuc):  &lt;span class=&quot;renote_note without_img&quot;&gt;&lt;/span&gt;&lt;hr&gt;Eugen Rochko&lpar;@Gargron@mastodon.social&rpar; says: &lt;br&gt;Following the example of the German government and the European Commission, the government of the Netherlands is now running their own Mastodon server! No middlemen between them and their constituents! Welcome @minbzk@social.overheid.nl!
-- [Jesh renotes](https://calckey.social/notes/9h8ot6q5u10telgl):  &lt;span class=&quot;renote_note without_img&quot;&gt;&lt;/span&gt;&lt;hr&gt;da_667&lpar;@da_667@infosec.exchange&rpar; says: &lt;br&gt; &lt;br&gt;&lt;img src=&quot;https://storage.serverius.net/ffmedia:social/social/173daf57-20c2-463e-8fa2-de8ff32e9783.png&quot;&gt;<!-- TOOT-LIST:END -->
-
 </td>
 </tr></table>
 
