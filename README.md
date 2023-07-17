@@ -91,11 +91,16 @@ Ooh, just discovered [myNoise.net](https://mynoise.net) and the sounds are aweso
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=jskherman&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 
-<table><td></td></table>
-
-<table>
-  <tr>
-    <td><img src='https://readme-stats-ten-alpha.vercel.app/api/top-langs/?username=jskherman&theme=dark&hide_border=true&include_all_commits=true&count_private=true' height='300px'></td>
-    <td><img src='https://github-readme-streak-stats.herokuapp.com/?user=jskherman&theme=dark&hide_border=true' width='500px'><br><img src='https://readme-stats-ten-alpha.vercel.app/api?username=jskherman&rank_icon=github&theme=dark&hide_border=true&show_icons=true' width='500px'></td>
-  </tr>
-</table>
+<a href="https://github.com/jskherman">
+  <img height='200px' align='center' src='https://readme-stats-ten-alpha.vercel.app/api?username=jskherman&rank_icon=github&theme=merko&hide_border=true&show_icons=true' />
+</a>
+<a href="https://jskherman.com">
+  <img height='200px' align="center" src='https://readme-stats-ten-alpha.vercel.app/api/top-langs/?username=jskherman&theme=merko&hide_border=true&include_all_commits=true&count_private=true&card_width=320&layout=compact' />
+</a>
+<br><br>
+<a href="https://howis.jskherman.com">
+  <img height='200px' align="center" src='https://github-readme-streak-stats.herokuapp.com/?user=jskherman&theme=merko&hide_border=true' />
+</a>
+<a href="https://calckey.social/@jskherman">
+  <img height='200px' align="center" src='http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jskherman&theme=github_dark&utcOffset=8' />
+</a>
