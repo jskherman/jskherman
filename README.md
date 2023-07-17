@@ -95,11 +95,7 @@ Ooh, just discovered [myNoise.net](https://mynoise.net) and the sounds are aweso
 
 <table>
   <tr>
-    <td rowspan="2"><img src='https://readme-stats-ten-alpha.vercel.app/api/top-langs/?username=jskherman&theme=dark&hide_border=true&include_all_commits=true&count_private=true' height='300px'></th>
-    <td><img src='https://github-readme-streak-stats.herokuapp.com/?user=jskherman&theme=dark&hide_border=true' width='500px'></td>
-  </tr>
-  <tr>
-    <td><img src='https://readme-stats-ten-alpha.vercel.app/api?username=jskherman&rank_icon=github&theme=dark&hide_border=true&show_icons=true' width='500px'></td>
+    <td><img src='https://readme-stats-ten-alpha.vercel.app/api/top-langs/?username=jskherman&theme=dark&hide_border=true&include_all_commits=true&count_private=true' height='300px'></th>
+    <td><img src='https://github-readme-streak-stats.herokuapp.com/?user=jskherman&theme=dark&hide_border=true' width='500px'><br><img src='https://readme-stats-ten-alpha.vercel.app/api?username=jskherman&rank_icon=github&theme=dark&hide_border=true&show_icons=true' width='500px'></td>
   </tr>
 </table>
-
