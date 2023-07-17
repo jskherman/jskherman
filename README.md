@@ -95,7 +95,7 @@ Ooh, just discovered [myNoise.net](https://mynoise.net) and the sounds are aweso
   <img height='176px' align='center' src='https://readme-stats-ten-alpha.vercel.app/api?username=jskherman&rank_icon=github&theme=merko&hide_border=true&show_icons=true' />
 </a>
 <a href="https://jskherman.com">
-  <img height='175px' align="center" src='https://readme-stats-ten-alpha.vercel.app/api/top-langs/?username=jskherman&theme=merko&hide_border=true&include_all_commits=true&count_private=true&card_width=320&layout=compact' />
+  <img height='175px' align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=jskherman&theme=merko&hide_border=true&card_width=320&layout=compact' />
 </a>
 <br><br>
 <a href="https://howis.jskherman.com">
