@@ -17,7 +17,7 @@ jobs:
           remove_duplicates: true
           comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://www.jskherman.com/feed.xml"
-          max_post_count: 7
+          max_post_count: 12
       - name: Pull in Toots
         uses: gautamkrishnar/blog-post-workflow@master
         with:
