@@ -70,7 +70,7 @@
 <!-- TOOT-LIST:START -->
 <li><a href='https://calckey.social/notes/9hacgn7klf11d48z' target='_blank'>Jesh says: </a><p>
 
-nice. <br><img src="https://storage.serverius.net/ffmedia:social/social/c1ff0329-ba0b-4023-b080-8ef1ca5ac593.png"> <span class="new_note with_img"></span></p></li>
+nice. <br><img src="https://storage.serverius.net/ffmedia:social/social/7a2352a5-22a3-4974-95e1-d16f782083dd.jpeg"> <span class="new_note with_img"></span></p></li>
 <li><a href='https://calckey.social/notes/9ha95ppstgnjbs7u' target='_blank'>Jesh renotes: </a><p>
 
  <span class="renote_note without_img"></span><hr>Mercurius Goldstein(@MercG@mindly.social) says: <br>Pls boost so I can show my wife how a toot can go round the world
