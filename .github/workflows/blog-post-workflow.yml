@@ -24,6 +24,6 @@ jobs:
           # remove_duplicates: true
           comment_tag_name: "TOOT-LIST"
           feed_list: "https://calckey.social/@jskherman.atom"
-          max_post_count: 7
+          max_post_count: 3
           disable_html_encoding: true
           template: "$newline<li><a href='$url' target='_blank'>$title: </a><p>$newline$newline$description</p></li>"
