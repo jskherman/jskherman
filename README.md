@@ -51,6 +51,7 @@
 - [Exporting all of my GitHub Contributions History](https://www.jskherman.com/blog/github-contributions/)
 - [Calculating marginal improvement in the 1% Rule](https://www.jskherman.com/til/2022-11-10_marginal-improvement/)
 - [Scraping PCSO Lottery Data to Excel with Python](https://www.jskherman.com/blog/lotto-data/)
+- [How to tackle a Textbook](https://www.jskherman.com/blog/tackle-textbook/)
 <!-- BLOG-POST-LIST:END -->
 
 [👉 *More Posts*](https://www.jskherman.com/)
