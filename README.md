@@ -72,7 +72,9 @@
 <li><a href='https://calckey.social/notes/9ha95ppstgnjbs7u' target='_blank'>Jesh renotes: </a><p> <span class="renote_note without_img"></span><hr>Mercurius Goldstein(@MercG@mindly.social) says: <br>Pls boost so I can show my wife how a toot can go round the world
  
 (we are boarding a long haul flight and will be on the other side of the world when I turn my phone back on, so even with 0 boosts I think this will be a sound demonstration)</p></li>
-<li><a href='https://calckey.social/notes/9ha5pkyltppkdcv6' target='_blank'>Jesh says: </a><p>Ooh, just discovered [myNoise.net](https://mynoise.net) and the sounds are awesome! I particularly like the [Quantum Polarity](https://mynoise.net/NoiseMachines/coolQuantifyMusicGenerator.php?l=50505050505050505050&d=14&title=Quantum%20Polarity) sound generator. It feels like cyber space. <span class="new_note without_img"></span></p></li>
+<li><a href='https://calckey.social/notes/9ha5pkyltppkdcv6' target='_blank'>Jesh says: </a><p>
+
+Ooh, just discovered [myNoise.net](https://mynoise.net) and the sounds are awesome! I particularly like the [Quantum Polarity](https://mynoise.net/NoiseMachines/coolQuantifyMusicGenerator.php?l=50505050505050505050&d=14&title=Quantum%20Polarity) sound generator. It feels like cyber space. <span class="new_note without_img"></span></p></li>
 <li><a href='https://calckey.social/notes/9ha4px5yn133osm5' target='_blank'>Jesh says: </a><p>Lol, it only just clicked for me now that [Fly.io](https://fly.io)'s catchphrase is along the lines of...
 
 > Spin up a VM on the **fly**. <span class="new_note without_img"></span></p></li>
