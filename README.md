@@ -2,7 +2,7 @@
 <h3 align="center">An INTJ Chemical Engineering student</h3><br>
 <img align="right" src="https://github.com/jskherman/jskherman/assets/68434444/6d0eeb9f-cf5f-407b-8e2f-da0c2ffc79a3" alt="programming GIF" height=300 />
 
-- 🔭  I’m currently working on a [personal dashboard on various statistics](https://www.jskherman.com/posts/github-commits/) about myself using data from various sources.<br>
+- 🔭  I’m currently working on a [personal dashboard on various statistics](https://howis.jskherman.com) about myself using data from various sources.<br>
 - 🌱  I’m currently learning Python and a little web development<br>
 - 💡  Fun fact: I had once slept on the floor in a hotel.[^1]<br>
 - ⚡  See other updates on my [Now page](https://www.jskherman.com/now).<br>
