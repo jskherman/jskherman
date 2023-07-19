@@ -69,18 +69,26 @@
 
 <ul>
 <!-- TOOT-LIST:START -->
+<li><a href='https://calckey.social/notes/9hcvlpa0s11ni0w3' target='_blank'>Jesh says: </a><p>
+
+Nice. In my #procrastination, I just tweaked an implementation of #OpenAI's #whisper model on #Streamlit to create a quick tool that I can use to transcribe audio recordings/voice notes for $[tada free].
+
+> GitHub:
+> <https://github.com/jskherman/streamlit_whisper_transcription>
+
+> Streamlit App:
+> <https://whisper-jsk.streamlit.app>
+
+Leveraging whisper's decent performance with multiple languages, I can just record "Taglish" (tightly intermixing use of #English and #Filipino in sentences, pretty hard since it's totally homogeneous) and have it actually have some semblance of the original conversation. I might need to pay though since that would require #OpenAI's #whisper #API to process properly.
+
+Now if ever I need to transcribe the minutes of a meeting (MOMs), the job might be slightly easier. <span class="new_note without_img"></span></p></li>
 <li><a href='https://calckey.social/notes/9halzat4ndpu3o8n' target='_blank'>Jesh replies: </a><p>
 
 @nasa@social.beachcom.org 🌏 <span class="reply_note without_img"></span><hr>NASA(@nasa@social.beachcom.org) says: <br>What’s your favorite emoji? We can’t decide between these! 🌍🌎🌏 #WorldEmojiDay
 #NASAEarth</p></li>
 <li><a href='https://calckey.social/notes/9hacgn7klf11d48z' target='_blank'>Jesh says: </a><p>
 
-nice. <br><img src="https://storage.serverius.net/ffmedia:social/social/7a2352a5-22a3-4974-95e1-d16f782083dd.jpeg"> <span class="new_note with_img"></span></p></li>
-<li><a href='https://calckey.social/notes/9ha95ppstgnjbs7u' target='_blank'>Jesh renotes: </a><p>
-
- <span class="renote_note without_img"></span><hr>Mercurius Goldstein(@MercG@mindly.social) says: <br>Pls boost so I can show my wife how a toot can go round the world
- 
-(we are boarding a long haul flight and will be on the other side of the world when I turn my phone back on, so even with 0 boosts I think this will be a sound demonstration)</p></li><!-- TOOT-LIST:END -->
+nice. <br><img src="https://storage.serverius.net/ffmedia:social/social/7a2352a5-22a3-4974-95e1-d16f782083dd.jpeg"> <span class="new_note with_img"></span></p></li><!-- TOOT-LIST:END -->
 </ul>
 
 </td>
