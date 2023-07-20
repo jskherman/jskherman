@@ -69,26 +69,55 @@
 
 <ul>
 <!-- TOOT-LIST:START -->
-<li><a href='https://calckey.social/notes/9hcvlpa0s11ni0w3' target='_blank'>Jesh says: </a><p>
+<li><a href='https://calckey.social/notes/9heo9n47g13dk927' target='_blank'>Jesh renotes: </a><p>
 
-Nice. In my #procrastination, I just tweaked an implementation of #OpenAI's #whisper model on #Streamlit to create a quick tool that I can use to transcribe audio recordings/voice notes for $[tada free].
+I guess tomorrow I will be spending tomorrow's morning updating my links and profiles that link to https://calckey.social/@jskherman.
 
-> GitHub:
-> <https://github.com/jskherman/streamlit_whisper_transcription>
+There's um
+1. my website home page
+2. website contact page
+3. shortlink
+4. Twitter/GitHub <span class="renote_note without_img"></span><hr>Admin(@admin@calckey.social) says: <br>Hello everyone! I'm glad you all enjoyed the unveiling of the new name and logo, and I hope you're all enjoying Firefish. As promised, calckey.social will become firefish.social! This transition will be taking place at 3:00 PM PST tomorrow (10:30 PM UTC) if all goes to plan, and the transition will likely take 1-2 hours.
 
-> Streamlit App:
-> <https://whisper-jsk.streamlit.app>
+~ 🐦</p></li>
+<li><a href='https://calckey.social/notes/9hendf9wrce48sxx' target='_blank'>Jesh replies: </a><p>
 
-Leveraging whisper's decent performance with multiple languages, I can just record "Taglish" (tightly intermixing use of #English and #Filipino in sentences, pretty hard since it's totally homogeneous) and have it actually have some semblance of the original conversation. I might need to pay though since that would require #OpenAI's #whisper #API to process properly.
+@o76923@kitty.social @Televise@kitty.social
+$[spin.speed=3s Like this?] $[sparkle $[rainbow $[tada :calcpicodance:]]]
 
-Now if ever I need to transcribe the minutes of a meeting (MOMs), the job might be slightly easier. <span class="new_note without_img"></span></p></li>
-<li><a href='https://calckey.social/notes/9halzat4ndpu3o8n' target='_blank'>Jesh replies: </a><p>
+$[bounce.speed=2s $[bounce.speed=2s \(i \hbar \frac{\partial}{\partial t} \Psi(x, t)=\left[-\frac{\hbar^{2}}{2 m} \frac{\partial^{2}}{\partial x^{2}}+V(x, t)\right] \Psi(x, t) \)]] <span class="reply_note without_img"></span><hr>James Endicott(@o76923@kitty.social) replies: <br>@jskherman@calckey.social @Televise@kitty.social
 
-@nasa@social.beachcom.org 🌏 <span class="reply_note without_img"></span><hr>NASA(@nasa@social.beachcom.org) says: <br>What’s your favorite emoji? We can’t decide between these! 🌍🌎🌏 #WorldEmojiDay
-#NASAEarth</p></li>
-<li><a href='https://calckey.social/notes/9hacgn7klf11d48z' target='_blank'>Jesh says: </a><p>
+You can even combine animations with custom emoji like $[sparkle $[rainbow $[tada :amongus_dance:]]]
 
-nice. <br><img src="https://storage.serverius.net/ffmedia:social/social/7a2352a5-22a3-4974-95e1-d16f782083dd.jpeg"> <span class="new_note with_img"></span></p></li><!-- TOOT-LIST:END -->
+or inline math and code like
+$[shake.speed=5s `let x = "Oh gods, why?"`]<hr>Jesh(@jskherman@calckey.social) replies: <br>@Televise@kitty.social It also _has_ **formatting** support, \(\text{math support} \ (\sqrt{- e^{\pi i}})\), and $[tada.speed=2s $[rainbow nifty animations!]]
+
+So yeah express yourself to your heart's content. These where what made ~~(Calckey)~~  #Firefish stick for me over #Mastodon.<hr>Televise(@Televise@kitty.social) says: <br>I have officially moved from Mastodon to Firefish. I like the UI more, it has a better homepage that makes it more fun to use, and I like how it has these funky emojis! :blobhajReach: :amongus_dance: :apartyblob5:
+And it federates with Mastodon, so I can still talk to you!</p></li>
+<li><a href='https://calckey.social/notes/9hen097pf7q9v0wr' target='_blank'>Jesh replies: </a><p>
+
+@christianp@mathstodon.xyz That's neat! How does the tool work? Do you think ChatGPT (especially with ChatGPT functions) could be helpful in this context in generating proper Alt text for equations?
+
+I've tried asking ChatGPT but it may need some examples first for it to get it right. Then again, it seems to have trouble with multiple layers of parentheses/brackets.
+
+---
+
+For example (ChatGPT transcript):
+
+ME: Give me the speech equivalent of the equation \(\int_{y=0}^z x \, dx = \frac{\partial x}{\partial y^{-1}}\) that I can say to someone who is blind.
+
+For example the equation:
+- \(x + y = 0\) is said as "x plus y is equal to zero"
+- \(\int_a^b x^2 \, dx = \frac{\partial z}{\partial x}\)  is said as "the integral of x squared dx from a to b is equal to the partial derivative of z with respect to x.
+
+CHATGPT: "(intro blah blah)... The integral of 'x' with respect to 'x', from 'y equals zero' to 'z', is equal to the partial derivative of 'x' with respect to the inverse of 'y'. ...(endnote blah blah)"
+
+ME: How about the (Schrodinger's) equation
+\(i \hbar \frac{\partial}{\partial t} \Psi(x, t)=\left[-\frac{\hbar^{2}}{2 m} \frac{\partial^{2}}{\partial x^{2}}+V(x, t)\right] \Psi(x, t)\) ?
+
+CHATGPT: (intro blah blah) "Eye h-bar times the partial derivative with respect to tee of psi of x, tee is equal to negative h-bar squared over two em times the second partial derivative with respect to ex plus vee of x, tee times psi of x, tee." <span class="reply_note without_img"></span><hr>Christian Lawson-Perfect(@christianp@mathstodon.xyz) says: <br>I've taken a moment to add a thing to my "make big maths" tool to show the speech equivalent of the expression that MathJax generates
+
+https://checkmyworking.com/misc/makebigmaths/ <br><img src="https://media.mathstodon.xyz/media_attachments/files/110/745/994/962/168/271/original/7c175e79e4bd5128.png"></p></li><!-- TOOT-LIST:END -->
 </ul>
 
 </td>
