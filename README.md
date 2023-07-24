@@ -58,11 +58,11 @@
 
 <div style='border: 1px black solid'>
 <!-- TOOT-LIST:START -->
-<a href='https://calckey.social/notes/9hhekbgxyelxy40d' target='_blank'>Jesh :firefish: replies: </a><p>
+<a href='https://calckey.social/notes/9hhekbgxyelxy40d' target='_blank'>Jesh replies: </a><p>
 
 Note to self: This should go into the "When You're Feeling Down" list.
 
-https://calckey.social/clips/9hhejf5rp1his0kw <span class="reply_note without_img"></span><hr>Jesh :firefish:(@jskherman@calckey.social) says: <br>I like #serendipity. Lady luck sometimes blesses you through the algorithm and the "I'm feeling lucky" #random button. #YouTube just showed me this clip again after a long while and made my day a bit lighter.
+https://calckey.social/clips/9hhejf5rp1his0kw <span class="reply_note without_img"></span><hr>Jesh(@jskherman@calckey.social) says: <br>I like #serendipity. Lady luck sometimes blesses you through the algorithm and the "I'm feeling lucky" #random button. #YouTube just showed me this clip again after a long while and made my day a bit lighter.
 
 https://www.youtube.com/watch?v=QbPj5vfprIQ
 
