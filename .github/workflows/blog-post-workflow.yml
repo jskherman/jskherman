@@ -26,4 +26,4 @@ jobs:
           feed_list: "https://calckey.social/@jskherman.atom"
           max_post_count: 3
           disable_html_encoding: true
-          template: "$newline<a href='$url' target='_blank'>$title: </a><p>$newline$newline$description</p></hr>"
+          template: "$newline<a href='$url' target='_blank'>$title: </a><p>$newline$newline$description</p><hr>$newline"
