@@ -67,19 +67,6 @@ https://calckey.social/clips/9hhejf5rp1his0kw <span class="reply_note without_im
 https://www.youtube.com/watch?v=QbPj5vfprIQ
 
 #taiko #osu #rhythm</p><hr>
-
-<a href='https://calckey.social/notes/9hhedd4mv2qetsf2' target='_blank'>Jesh :firefish: says: </a><p>
-
-I like #serendipity. Lady luck sometimes blesses you through the algorithm and the "I'm feeling lucky" #random button. #YouTube just showed me this clip again after a long while and made my day a bit lighter.
-
-https://www.youtube.com/watch?v=QbPj5vfprIQ
-
-#taiko #osu #rhythm <span class="new_note without_img"></span></p><hr>
-
-<a href='https://calckey.social/notes/9hgawl27zp818ql7' target='_blank'>Jesh :firefish: renotes: </a><p>
-
- <span class="renote_note without_img"></span><hr>kepano(@kepano@mastodon.social) says: <br>Nibble and your appetite will grow
-https://stephanango.com/nibble <br><img src="https://files.mastodon.social/media_attachments/files/110/752/550/186/173/089/original/581c0ee4eebc1356.png"></p><hr>
 <!-- TOOT-LIST:END -->
 </div>
 
