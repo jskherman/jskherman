@@ -39,8 +39,6 @@
 </p>
 <br>
 
-<table><tr><td valign="top" width="55%">
-
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -55,21 +53,12 @@
 <!-- BLOG-POST-LIST:END -->
 
 [👉 *More Posts*](https://www.jskherman.com/)
- 
-</td>
-<!-- <td valign="top" width="50%">
 
-### 🔖 A Random Three Body Simulation
+### 🎺 Recent Toot
 
-</td> -->
-
-<td valign="top" width="45%">
-
-### 🎺 Recent Toots
-
-<ul>
+<div style='border: 1px black solid'>
 <!-- TOOT-LIST:START -->
-<li><a href='https://calckey.social/notes/9heo9n47g13dk927' target='_blank'>Jesh renotes: </a><p>
+<a href='https://calckey.social/notes/9heo9n47g13dk927' target='_blank'>Jesh renotes: </a><p>
 
 I guess tomorrow I will be spending tomorrow's morning updating my links and profiles that link to https://calckey.social/@jskherman.
 
@@ -79,56 +68,17 @@ There's um
 3. shortlink
 4. Twitter/GitHub <span class="renote_note without_img"></span><hr>Admin(@admin@calckey.social) says: <br>Hello everyone! I'm glad you all enjoyed the unveiling of the new name and logo, and I hope you're all enjoying Firefish. As promised, calckey.social will become firefish.social! This transition will be taking place at 3:00 PM PST tomorrow (10:30 PM UTC) if all goes to plan, and the transition will likely take 1-2 hours.
 
-~ 🐦</p></li>
-<li><a href='https://calckey.social/notes/9hendf9wrce48sxx' target='_blank'>Jesh replies: </a><p>
+~ 🐦</p>
+<!-- TOOT-LIST:END -->
+</div>
 
-@o76923@kitty.social @Televise@kitty.social
-$[spin.speed=3s Like this?] $[sparkle $[rainbow $[tada :calcpicodance:]]]
-
-$[bounce.speed=2s $[bounce.speed=2s \(i \hbar \frac{\partial}{\partial t} \Psi(x, t)=\left[-\frac{\hbar^{2}}{2 m} \frac{\partial^{2}}{\partial x^{2}}+V(x, t)\right] \Psi(x, t) \)]] <span class="reply_note without_img"></span><hr>James Endicott(@o76923@kitty.social) replies: <br>@jskherman@calckey.social @Televise@kitty.social
-
-You can even combine animations with custom emoji like $[sparkle $[rainbow $[tada :amongus_dance:]]]
-
-or inline math and code like
-$[shake.speed=5s `let x = "Oh gods, why?"`]<hr>Jesh(@jskherman@calckey.social) replies: <br>@Televise@kitty.social It also _has_ **formatting** support, \(\text{math support} \ (\sqrt{- e^{\pi i}})\), and $[tada.speed=2s $[rainbow nifty animations!]]
-
-So yeah express yourself to your heart's content. These where what made ~~(Calckey)~~  #Firefish stick for me over #Mastodon.<hr>Televise(@Televise@kitty.social) says: <br>I have officially moved from Mastodon to Firefish. I like the UI more, it has a better homepage that makes it more fun to use, and I like how it has these funky emojis! :blobhajReach: :amongus_dance: :apartyblob5:
-And it federates with Mastodon, so I can still talk to you!</p></li>
-<li><a href='https://calckey.social/notes/9hen097pf7q9v0wr' target='_blank'>Jesh replies: </a><p>
-
-@christianp@mathstodon.xyz That's neat! How does the tool work? Do you think ChatGPT (especially with ChatGPT functions) could be helpful in this context in generating proper Alt text for equations?
-
-I've tried asking ChatGPT but it may need some examples first for it to get it right. Then again, it seems to have trouble with multiple layers of parentheses/brackets.
-
----
-
-For example (ChatGPT transcript):
-
-ME: Give me the speech equivalent of the equation \(\int_{y=0}^z x \, dx = \frac{\partial x}{\partial y^{-1}}\) that I can say to someone who is blind.
-
-For example the equation:
-- \(x + y = 0\) is said as "x plus y is equal to zero"
-- \(\int_a^b x^2 \, dx = \frac{\partial z}{\partial x}\)  is said as "the integral of x squared dx from a to b is equal to the partial derivative of z with respect to x.
-
-CHATGPT: "(intro blah blah)... The integral of 'x' with respect to 'x', from 'y equals zero' to 'z', is equal to the partial derivative of 'x' with respect to the inverse of 'y'. ...(endnote blah blah)"
-
-ME: How about the (Schrodinger's) equation
-\(i \hbar \frac{\partial}{\partial t} \Psi(x, t)=\left[-\frac{\hbar^{2}}{2 m} \frac{\partial^{2}}{\partial x^{2}}+V(x, t)\right] \Psi(x, t)\) ?
-
-CHATGPT: (intro blah blah) "Eye h-bar times the partial derivative with respect to tee of psi of x, tee is equal to negative h-bar squared over two em times the second partial derivative with respect to ex plus vee of x, tee times psi of x, tee." <span class="reply_note without_img"></span><hr>Christian Lawson-Perfect(@christianp@mathstodon.xyz) says: <br>I've taken a moment to add a thing to my "make big maths" tool to show the speech equivalent of the expression that MathJax generates
-
-https://checkmyworking.com/misc/makebigmaths/ <br><img src="https://media.mathstodon.xyz/media_attachments/files/110/745/994/962/168/271/original/7c175e79e4bd5128.png"></p></li><!-- TOOT-LIST:END -->
-</ul>
-
-</td>
-</tr></table>
 
 <!-- ### ✍️ Random Quote -->
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 ### 📊 GitHub Stats:
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=jskherman&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+<!-- ![](https://readme-stats-ten-alpha.vercel.app/api?username=jskherman&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 
 <a href="https://github.com/jskherman">
   <img height='176px' align='center' src='https://readme-stats-ten-alpha.vercel.app/api?username=jskherman&rank_icon=github&theme=merko&hide_border=true&show_icons=true' />
