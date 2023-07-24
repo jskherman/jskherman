@@ -21,9 +21,9 @@ jobs:
       - name: Pull in Toots
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          # remove_duplicates: true
+          remove_duplicates: true
           comment_tag_name: "TOOT-LIST"
           feed_list: "https://calckey.social/@jskherman.atom"
           max_post_count: 3
           disable_html_encoding: true
-          template: "$newline<li><a href='$url' target='_blank'>$title: </a><p>$newline$newline$description</p></li>"
+          template: "$newline<a href='$url' target='_blank'>$title: </a><p>$newline$newline$description</p></hr>"
