@@ -58,18 +58,26 @@
 
 <div style='border: 1px black solid'>
 <!-- TOOT-LIST:START -->
-<a href='https://calckey.social/notes/9heo9n47g13dk927' target='_blank'>Jesh renotes: </a><p>
+<a href='https://calckey.social/notes/9hhekbgxyelxy40d' target='_blank'>Jesh :firefish: replies: </a><p>
 
-I guess tomorrow I will be spending tomorrow's morning updating my links and profiles that link to https://calckey.social/@jskherman.
+Note to self: This should go into the "When You're Feeling Down" list.
 
-There's um
-1. my website home page
-2. website contact page
-3. shortlink
-4. Twitter/GitHub <span class="renote_note without_img"></span><hr>Admin(@admin@calckey.social) says: <br>Hello everyone! I'm glad you all enjoyed the unveiling of the new name and logo, and I hope you're all enjoying Firefish. As promised, calckey.social will become firefish.social! This transition will be taking place at 3:00 PM PST tomorrow (10:30 PM UTC) if all goes to plan, and the transition will likely take 1-2 hours.
+https://calckey.social/clips/9hhejf5rp1his0kw <span class="reply_note without_img"></span><hr>Jesh :firefish:(@jskherman@calckey.social) says: <br>I like #serendipity. Lady luck sometimes blesses you through the algorithm and the "I'm feeling lucky" #random button. #YouTube just showed me this clip again after a long while and made my day a bit lighter.
 
-~ 🐦</p>
-<!-- TOOT-LIST:END -->
+https://www.youtube.com/watch?v=QbPj5vfprIQ
+
+#taiko #osu #rhythm</p></hr>
+<a href='https://calckey.social/notes/9hhedd4mv2qetsf2' target='_blank'>Jesh :firefish: says: </a><p>
+
+I like #serendipity. Lady luck sometimes blesses you through the algorithm and the "I'm feeling lucky" #random button. #YouTube just showed me this clip again after a long while and made my day a bit lighter.
+
+https://www.youtube.com/watch?v=QbPj5vfprIQ
+
+#taiko #osu #rhythm <span class="new_note without_img"></span></p></hr>
+<a href='https://calckey.social/notes/9hgawl27zp818ql7' target='_blank'>Jesh :firefish: renotes: </a><p>
+
+ <span class="renote_note without_img"></span><hr>kepano(@kepano@mastodon.social) says: <br>Nibble and your appetite will grow
+https://stephanango.com/nibble <br><img src="https://files.mastodon.social/media_attachments/files/110/752/550/186/173/089/original/581c0ee4eebc1356.png"></p></hr><!-- TOOT-LIST:END -->
 </div>
 
 
