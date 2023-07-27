@@ -6,7 +6,7 @@
 - 🌱  I’m currently learning Python and a little web development<br>
 - 💡  Not so Fun fact: I had once slept on the floor in a hotel.[^1]<br>
 - ⚡  See other updates on my [Now page](https://www.jskherman.com/now).<br>
-- 📧  Contact me [directly](https://www.jskherman.com/about/#contact-me), on [Firefish](https://calckey.social/@jskherman), or [LinkedIn](https://linkedin.com/in/jskherman).
+- 📧  Contact me [directly](https://www.jskherman.com/about/#contact-me), on [Firefish](https://firefish.social/@jskherman), or [LinkedIn](https://linkedin.com/in/jskherman).
 
 [^1]: Don't try it. It was unique but it's not worth it.
 
@@ -19,7 +19,7 @@
 <a href="https://paypal.me/jskherman" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="25" alt="paypal" /></a>&nbsp;
 
 <a href="https://linkedin.com/in/jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-<a href="https://calckey.social/@jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=mastodon" alt="ActivityPub" /></a>
+<a href="https://firefish.social/@jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=mastodon" alt="ActivityPub" /></a>
 <a href="https://twitter.com/jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter" /></a>
 <a href="https://github.com/jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
 
@@ -89,6 +89,6 @@ https://www.youtube.com/watch?v=QbPj5vfprIQ
 <a href="https://howis.jskherman.com">
   <img height='175px' align="center" src='https://github-readme-streak-stats.herokuapp.com/?user=jskherman&theme=merko&hide_border=true' />
 </a>
-<a href="https://calckey.social/@jskherman">
+<a href="https://firefish.social/@jskherman">
   <img height='175px' align="center" src='http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jskherman&theme=github_dark&utcOffset=8' />
 </a>
