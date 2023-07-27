@@ -59,15 +59,14 @@
 
 <div style='border: 1px black solid'>
 <!-- TOOT-LIST:START -->
-<a href='https://calckey.social/notes/9hhekbgxyelxy40d' target='_blank'>Jesh  replies: </a><p>
+<a href='https://firefish.social/notes/9hoawcnnf7hh78ek' target='_blank'>Jesh  renotes: </a><p>
 
-Note to self: This should go into the "When You're Feeling Down" list.
+@box464 <span class="renote_note without_img"></span><hr>Jesh (@jskherman@firefish.social) says: <br>`firefish commit -m "Initial Post"`
 
-https://calckey.social/clips/9hhejf5rp1his0kw <span class="reply_note without_img"></span><hr>Jesh (@jskherman@calckey.social) says: <br>I like #serendipity. Lady luck sometimes blesses you through the algorithm and the "I'm feeling lucky" #random button. #YouTube just showed me this clip again after a long while and made my day a bit lighter.
+lllustration: https://hiyokoyarou.com/sakabanbasupisu/
+Video: https://www.youtube.com/watch?v=9i9BhZ1quU0
 
-https://www.youtube.com/watch?v=QbPj5vfprIQ
-
-#taiko #osu #rhythm</p><hr>
+#FishOfFirefish #Firefish <br><img src="https://storage.serverius.net/ffmedia:social/social/webpublic-a2d8f26f-3ea4-406f-829f-06c4fc8c3427.webp"></p><hr>
 <!-- TOOT-LIST:END -->
 </div>
 
