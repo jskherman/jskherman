@@ -60,14 +60,10 @@
 
 <div style='border: 1px black solid'>
 <!-- TOOT-LIST:START -->
-<a href='https://firefish.social/notes/9hoawcnnf7hh78ek' target='_blank'>Jesh  renotes: </a><p>
+<a href='https://firefish.social/notes/9i59jr4ux75875xh' target='_blank'>Jesh  replies: </a><p>
 
-@box464 <span class="renote_note without_img"></span><hr>Jesh (@jskherman@firefish.social) says: <br>`firefish commit -m "Initial Post"`
-
-lllustration: https://hiyokoyarou.com/sakabanbasupisu/
-Video: https://www.youtube.com/watch?v=9i9BhZ1quU0
-
-#FishOfFirefish #Firefish <br><img src="https://storage.serverius.net/ffmedia:social/social/webpublic-a2d8f26f-3ea4-406f-829f-06c4fc8c3427.webp"></p><hr>
+re: #2812 Solar Panel Placement<br>@xkcd@mastodon.xyz Even cheaper if room/high-temperature superconductors are made commercially feasible eventually. <span class="reply_note without_img"></span><hr>XKCD Bot(@xkcd@mastodon.xyz) says: <br>#2812 Solar Panel Placement<br>Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time.
+https://xkcd.com/2812/ <br><img src="https://storage.serverius.net/ffmedia:social/social/4b2b5d23-1c6d-40da-8859-92d29ee80d66.png"></p><hr>
 <!-- TOOT-LIST:END -->
 </div>
 
