@@ -43,6 +43,8 @@
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT Pirate Certificate](https://www.jskherman.com/til/mit-pirate-certificate/)
+- [How to self-host TiddlyPWA on Fly.io for free](https://www.jskherman.com/blog/selfhost-tiddlypwa-on-flydotio/)
 - [TiddlyWiki, Ambient Superconductor?](https://www.jskherman.com/til/tiddlywiki-superconductor/)
 - [Self Hosting Is Hard](https://www.jskherman.com/blog/self-hosting-is-hard/)
 - [Git Word-Diff and Wayback Machine Extension](https://www.jskherman.com/til/git-wayback/)
