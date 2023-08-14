@@ -62,10 +62,9 @@
 
 <div style='border: 1px black solid'>
 <!-- TOOT-LIST:START -->
-<a href='https://firefish.social/notes/9i59jr4ux75875xh' target='_blank'>Jesh  replies: </a><p>
+<a href='https://firefish.social/notes/9icv8bkwti5zwgzc' target='_blank'>Jesh  renotes: </a><p>
 
-re: #2812 Solar Panel Placement<br>@xkcd@mastodon.xyz Even cheaper if room/high-temperature superconductors are made commercially feasible eventually. <span class="reply_note without_img"></span><hr>XKCD Bot(@xkcd@mastodon.xyz) says: <br>#2812 Solar Panel Placement<br>Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time.
-https://xkcd.com/2812/ <br><img src="https://storage.serverius.net/ffmedia:social/social/4b2b5d23-1c6d-40da-8859-92d29ee80d66.png"></p><hr>
+ <span class="renote_note without_img"></span><hr>Kainoa (@kainoa@firefish.social) says: <br>Not sure who in 2023 is still trying to claim #ClimateChange isn't real, but in case you know someone... <br><video controls src="https://storage.serverius.net/ffmedia:social/social/a4736f57-5b47-4126-a228-6b7ac183dd5a.mp4" type="video/mp4"></p><hr>
 <!-- TOOT-LIST:END -->
 </div>
 
