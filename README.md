@@ -4,7 +4,7 @@
 
 - 🔭  I’m currently working on a [personal dashboard on various statistics](https://howis.jskherman.com) about myself using data from various sources.<br>
 - 🌱  I’m currently learning Python and a little web development<br>
-- 💡  Not so Fun fact: I had once slept on the floor in a hotel.[^1]<br>
+- 💡  Not so Fun fact: I had once slept on the floor in a hotel abroad.[^1]<br>
 - ⚡  See other updates on my [Now page](https://www.jskherman.com/now).<br>
 - 📧  Contact me [directly](https://www.jskherman.com/about/#contact-me), on [Firefish](https://firefish.social/@jskherman), or [LinkedIn](https://linkedin.com/in/jskherman).
 
