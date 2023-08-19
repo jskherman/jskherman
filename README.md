@@ -8,7 +8,7 @@
 - ⚡  See other updates on my [Now page](https://www.jskherman.com/now).<br>
 - 📧  Contact me [directly](https://www.jskherman.com/about/#contact-me), on [Firefish](https://firefish.social/@jskherman), or [LinkedIn](https://linkedin.com/in/jskherman).
 
-[^1]: Don't try it. It was unique but it's not worth it.
+[^1]: Don't try it. It was a unique experience but it's not worth it.
 
 ### 💬 Socials
 
