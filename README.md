@@ -62,9 +62,9 @@
 
 <div style='border: 1px black solid'>
 <!-- TOOT-LIST:START -->
-<a href='https://firefish.social/notes/9icv8bkwti5zwgzc' target='_blank'>Jesh  renotes: </a><p>
+<a href='https://firefish.social/notes/9imdozbmb12bmgmf' target='_blank'>Jesh  renotes: </a><p>
 
- <span class="renote_note without_img"></span><hr>Kainoa (@kainoa@firefish.social) says: <br>Not sure who in 2023 is still trying to claim #ClimateChange isn't real, but in case you know someone... <br><video controls src="https://storage.serverius.net/ffmedia:social/social/a4736f57-5b47-4126-a228-6b7ac183dd5a.mp4" type="video/mp4"></p><hr>
+ <span class="renote_note without_img"></span><hr>Chris Hallbeck(@Chrishallbeck@mastodon.social) says: <br>Kettle. <br><video controls src="https://storage.serverius.net/ffmedia:social/social/ee7cf47d-e928-4058-a74d-e42e05bef01d.mp4" type="video/mp4"></p><hr>
 <!-- TOOT-LIST:END -->
 </div>
 
