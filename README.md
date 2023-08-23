@@ -61,7 +61,13 @@
 ### 💡 Recent Notes / TILs
 
 <!-- ZK-NOTE-LIST:START -->
-
+- [Tags](https://ztk.jskherman.com/tags)
+- [Zettelkasten note types](https://ztk.jskherman.com/202.mems/Zettelkasten-note-types)
+- [Tool](https://ztk.jskherman.com/201.index/Tool)
+- [On the Tax Poem](https://ztk.jskherman.com/202.mems/On-the-tax-poem)
+- [Meta and strategies for the ChE board exam](https://ztk.jskherman.com/202.mems/Meta-and-strategies-for-the-ChE-board-exam)
+- [Yard sale model](https://ztk.jskherman.com/202.mems/Yard-sale-model)
+- [Debate speech structure](https://ztk.jskherman.com/202.mems/Debate-speech-structure)
 <!-- ZK-NOTE-LIST:END -->
 
 [👉 *Explore Notes*](https://ztk.jskherman.com/)
