@@ -58,7 +58,7 @@
 
 </td><td valign="top" width="45%">
 
-### Recent Notes / TILs
+### 💡 Recent Notes / TILs
 
 <!-- NOTE-LIST:START -->
 <!-- NOTE-LIST:END -->
