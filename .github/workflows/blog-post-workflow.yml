@@ -21,8 +21,8 @@ jobs:
       - name: Pull in Notes
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          remove_duplicates: true
+          remove_duplicates: false
           comment_tag_name: "NOTE-LIST"
           feed_list: "https://ztk.jskherman.com/index.xml"
           max_post_count: 7
-          # disable_html_encoding: true
+          template: "- [$title]($url)$newline"
