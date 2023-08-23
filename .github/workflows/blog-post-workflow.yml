@@ -22,7 +22,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           remove_duplicates: false
-          comment_tag_name: "NOTE-LIST"
+          comment_tag_name: "ZK-NOTE-LIST"
           feed_list: "https://ztk.jskherman.com/index.xml"
           max_post_count: 7
           disable_item_validation: true

@@ -60,9 +60,9 @@
 
 ### 💡 Recent Notes / TILs
 
-<!-- NOTE-LIST:START -->
+<!-- ZK-NOTE-LIST:START -->
 
-<!-- NOTE-LIST:END -->
+<!-- ZK-NOTE-LIST:END -->
 
 [👉 *Explore Notes*](https://ztk.jskherman.com/)
 
