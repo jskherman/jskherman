@@ -40,6 +40,8 @@
 </p>
 <br>
 
+<table><tr><td valign="top" width="55%">
+
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -58,16 +60,17 @@
 
 [👉 *More Posts*](https://www.jskherman.com/)
 
-### 🎺 Recent Toot
+</td><td valign="top" width="45%">
 
-<div style='border: 1px black solid'>
-<!-- TOOT-LIST:START -->
-<a href='https://firefish.social/notes/9imdozbmb12bmgmf' target='_blank'>Jesh  renotes: </a><p>
+### Recent Notes / TILs
 
- <span class="renote_note without_img"></span><hr>Chris Hallbeck(@Chrishallbeck@mastodon.social) says: <br>Kettle. <br><video controls src="https://storage.serverius.net/ffmedia:social/social/ee7cf47d-e928-4058-a74d-e42e05bef01d.mp4" type="video/mp4"></p><hr>
-<!-- TOOT-LIST:END -->
-</div>
+<!-- NOTE-LIST:START -->
+<!-- NOTE-LIST:END -->
 
+[👉 *Explore Notes*](https://ztk.jskherman.com/)
+
+</td>
+</tr></table>
 
 <!-- ### ✍️ Random Quote -->
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
