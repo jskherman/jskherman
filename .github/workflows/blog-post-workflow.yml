@@ -25,4 +25,4 @@ jobs:
           comment_tag_name: "NOTE-LIST"
           feed_list: "https://ztk.jskherman.com/index.xml"
           max_post_count: 7
-          template: "- [$title]($url)$newline"
+          disable_item_validation: true
