@@ -44,13 +44,13 @@
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adapting Gilles Castel’s LaTeX Snippets for Typst](https://www.jskherman.com/blog/typst-snippets/)
 - [MIT Pirate Certificate](https://www.jskherman.com/til/mit-pirate-certificate/)
 - [How to self-host TiddlyPWA on Fly.io for free](https://www.jskherman.com/blog/selfhost-tiddlypwa-on-flydotio/)
 - [TiddlyWiki, Ambient Superconductor?](https://www.jskherman.com/til/tiddlywiki-superconductor/)
 - [Self Hosting Is Hard](https://www.jskherman.com/blog/self-hosting-is-hard/)
 - [Git Word-Diff and Wayback Machine Extension](https://www.jskherman.com/til/git-wayback/)
 - [Applying multiple variable transforms in VS Code Snippets](https://www.jskherman.com/til/2023-05-24_vscode-snippets/)
-- [Finally finished migrating my website — again &lpar;x4&rpar;](https://www.jskherman.com/blog/migrating-sites/)
 <!-- BLOG-POST-LIST:END -->
 
 [👉 *More Posts*](https://www.jskherman.com/)
