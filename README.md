@@ -23,7 +23,6 @@
 <a href="https://twitter.com/jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter" /></a>
 <a href="https://github.com/jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
 
-
 </div>
 
 ### 💻 Tech Stuff
@@ -56,23 +55,24 @@
 
 [👉 *More Posts*](https://www.jskherman.com/)
 
-</td><td valign="top" width="45%">
+</td>
+
+<!-- <td valign="top" width="45%">
 
 ### 💡 Recent Notes / TILs
 
-<!-- ZK-NOTE-LIST:START -->
 - [Tags](https://ztk.jskherman.com/tags)
 - [Zettelkasten note types](https://ztk.jskherman.com/202.mems/Zettelkasten-note-types)
 - [Tool](https://ztk.jskherman.com/201.index/Tool)
 - [On the Tax Poem](https://ztk.jskherman.com/202.mems/On-the-tax-poem)
 - [Meta and strategies for the ChE board exam](https://ztk.jskherman.com/202.mems/Meta-and-strategies-for-the-ChE-board-exam)
 - [Yard sale model](https://ztk.jskherman.com/202.mems/Yard-sale-model)
-- [Debate speech structure](https://ztk.jskherman.com/202.mems/Debate-speech-structure)
-<!-- ZK-NOTE-LIST:END -->
+- [Debate speech structure](https://ztk.jskherman.com/202.mems/Debate-speech-structure) 
+
 
 [👉 *Explore Notes*](https://ztk.jskherman.com/)
 
-</td>
+</td> -->
 </tr></table>
 
 <!-- ### ✍️ Random Quote -->
