@@ -49,6 +49,8 @@
 - [How to self-host TiddlyPWA on Fly.io for free](https://www.jskherman.com/blog/selfhost-tiddlypwa-on-flydotio/)
 - [TiddlyWiki, Ambient Superconductor?](https://www.jskherman.com/til/tiddlywiki-superconductor/)
 - [Self Hosting Is Hard](https://www.jskherman.com/blog/self-hosting-is-hard/)
+- [Git Word-Diff and Wayback Machine Extension](https://www.jskherman.com/til/git-wayback/)
+- [Applying multiple variable transforms in VS Code Snippets](https://www.jskherman.com/til/2023-05-24_vscode-snippets/)
 <!-- BLOG-POST-LIST:END -->
 
 [👉 *More Posts*](https://www.jskherman.com/)
