@@ -44,8 +44,6 @@
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineer Challenge: Chemical Edition](https://www.jskherman.com/blog/engineer-challenge/)
-- [Progress Log: Engineer Challenge](https://www.jskherman.com/blog/chebx-changelog/)
 - [Adapting Gilles Castel’s LaTeX Snippets for Typst](https://www.jskherman.com/blog/typst-snippets/)
 - [MIT Pirate Certificate](https://www.jskherman.com/til/mit-pirate-certificate/)
 - [How to self-host TiddlyPWA on Fly.io for free](https://www.jskherman.com/blog/selfhost-tiddlypwa-on-flydotio/)
@@ -59,18 +57,7 @@
 
 <!-- <td valign="top" width="45%">
 
-### 💡 Recent Notes / TILs
-
-- [Tags](https://ztk.jskherman.com/tags)
-- [Zettelkasten note types](https://ztk.jskherman.com/202.mems/Zettelkasten-note-types)
-- [Tool](https://ztk.jskherman.com/201.index/Tool)
-- [On the Tax Poem](https://ztk.jskherman.com/202.mems/On-the-tax-poem)
-- [Meta and strategies for the ChE board exam](https://ztk.jskherman.com/202.mems/Meta-and-strategies-for-the-ChE-board-exam)
-- [Yard sale model](https://ztk.jskherman.com/202.mems/Yard-sale-model)
-- [Debate speech structure](https://ztk.jskherman.com/202.mems/Debate-speech-structure) 
-
-
-[👉 *Explore Notes*](https://ztk.jskherman.com/)
+### 💡 Another Section
 
 </td> -->
 </tr></table>
