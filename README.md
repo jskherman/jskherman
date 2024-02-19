@@ -44,12 +44,13 @@
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Treating Life as a Role-Playing Game](https://www.jskherman.com/blog/life-as-a-rpg/)
+- [A new text-to-video model from OpenAI](https://www.jskherman.com/nano/text-to-video-ai/)
 - [Moving my &quot;micro-blog&quot; off Twitter](https://www.jskherman.com/nano/moving-off-twitter/)
 - [Adapting Gilles Castel’s LaTeX Snippets for Typst](https://www.jskherman.com/blog/typst-snippets/)
 - [Applying multiple variable transforms in VS Code Snippets](https://www.jskherman.com/blog/vscode-var-transform-snippets/)
 - [Finally finished migrating my website — again &lpar;x4&rpar;](https://www.jskherman.com/blog/migrating-sites/)
 - [Exporting all of my GitHub Contributions History](https://www.jskherman.com/blog/github-contributions/)
-- [Scraping PCSO Lottery Data to Excel with Python](https://www.jskherman.com/blog/lotto-data/)
 <!-- BLOG-POST-LIST:END -->
 
 [👉 *More Posts*](https://www.jskherman.com/)
