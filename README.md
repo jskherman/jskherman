@@ -44,13 +44,13 @@
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I just found my new 2024-Q1 background music](https://www.jskherman.com/nano/new-2024-q1-bg-music-found/)
 - [On using TXT files for journaling](https://www.jskherman.com/nano/txt-files-for-journaling/)
 - [Interstitial journaling with Telegram and Obsidian](https://www.jskherman.com/nano/logs-in-telegram-obsidian/)
 - [Forcing my phone to only use 5G](https://www.jskherman.com/nano/forcing-5g/)
 - [Treating Life as a Role-Playing Game](https://www.jskherman.com/blog/life-as-a-rpg/)
 - [A new text-to-video model from OpenAI](https://www.jskherman.com/nano/text-to-video-ai/)
 - [Moving my &quot;micro-blog&quot; off Twitter](https://www.jskherman.com/nano/moving-off-twitter/)
-- [Adapting Gilles Castel’s LaTeX Snippets for Typst](https://www.jskherman.com/blog/typst-snippets/)
 <!-- BLOG-POST-LIST:END -->
 
 [👉 *More Posts*](https://www.jskherman.com/)
