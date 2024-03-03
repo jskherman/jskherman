@@ -29,9 +29,9 @@
 
 <p align="center">
   <a href="https://www.jskherman.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode,cloudflare,netlify,docker,html,css,latex" />
+    <img src="https://skillicons.dev/icons?i=git,cloudflare,docker,python,html,css,latex" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,regex,matlab,octave,postgres,python,bots" />
+    <img src="https://skillicons.dev/icons?i=vscode,windows,regex,matlab,octave,postgres,bots" />
     <br>
     <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white" />
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" />
