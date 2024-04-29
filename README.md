@@ -44,13 +44,13 @@
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I just found my new 2024-Q1 background music](https://www.jskherman.com/nano/new-2024-q1-bg-music-found/)
-- [On using TXT files for journaling](https://www.jskherman.com/nano/txt-files-for-journaling/)
-- [Interstitial journaling with Telegram and Obsidian](https://www.jskherman.com/nano/logs-in-telegram-obsidian/)
-- [Forcing my phone to only use 5G](https://www.jskherman.com/nano/forcing-5g/)
-- [Treating Life as a Role-Playing Game](https://www.jskherman.com/blog/life-as-a-rpg/)
-- [A new text-to-video model from OpenAI](https://www.jskherman.com/nano/text-to-video-ai/)
-- [Moving my &quot;micro-blog&quot; off Twitter](https://www.jskherman.com/nano/moving-off-twitter/)
+- [Keeping a list for getting out of a rut](https://www.jskherman.com/micro/list-for-getting-out-of-a-rut/)
+- [Things I always search for when working with Git](https://www.jskherman.com/gists/git-faqs/)
+- [mega-data.txt](https://www.jskherman.com/gists/mega-data-txt/)
+- [statuscafe_parser.py](https://www.jskherman.com/gists/statuscafe-parser-py/)
+- [Adapting Gilles Castel’s LaTeX snippets for Typst](https://www.jskherman.com/blog/typst-snippets/)
+- [get_gh_commits.py](https://www.jskherman.com/gists/get-gh-commits-py/)
+- [Migrating my website *again* for the fifth time](https://www.jskherman.com/blog/migrating-sites/)
 <!-- BLOG-POST-LIST:END -->
 
 [👉 *More Posts*](https://www.jskherman.com/)
