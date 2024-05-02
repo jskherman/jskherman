@@ -44,13 +44,13 @@
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #0002](https://www.jskherman.com/micro/til-0002/)
+- [📋obsidian_toggle_checkbox.md](https://www.jskherman.com/gists/obsidian-toggle-checkbox/)
+- [TIL #0001](https://www.jskherman.com/micro/til-0001/)
+- [📋miniflux-themes.css](https://www.jskherman.com/gists/miniflux-themes-css/)
 - [Keeping a list for getting out of a rut](https://www.jskherman.com/micro/list-for-getting-out-of-a-rut/)
-- [Things I always search for when working with Git](https://www.jskherman.com/gists/git-faqs/)
-- [mega-data.txt](https://www.jskherman.com/gists/mega-data-txt/)
-- [statuscafe_parser.py](https://www.jskherman.com/gists/statuscafe-parser-py/)
-- [Adapting Gilles Castel’s LaTeX snippets for Typst](https://www.jskherman.com/blog/typst-snippets/)
-- [get_gh_commits.py](https://www.jskherman.com/gists/get-gh-commits-py/)
-- [Migrating my website *again* for the fifth time](https://www.jskherman.com/blog/migrating-sites/)
+- [📋Things I always search for when working with Git](https://www.jskherman.com/gists/git-faqs/)
+- [📋mega-data.txt](https://www.jskherman.com/gists/mega-data-txt/)
 <!-- BLOG-POST-LIST:END -->
 
 [👉 *More Posts*](https://www.jskherman.com/)
