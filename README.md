@@ -44,13 +44,13 @@
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s surreal how I&#39;m learning business through VTubers](https://www.jskherman.com/blog/learning-business-through-vtubers/)
 - [TIL #0002](https://www.jskherman.com/micro/til-0002/)
 - [📋obsidian_toggle_checkbox.md](https://www.jskherman.com/gists/obsidian-toggle-checkbox/)
 - [TIL #0001](https://www.jskherman.com/micro/til-0001/)
 - [📋miniflux-themes.css](https://www.jskherman.com/gists/miniflux-themes-css/)
 - [Keeping a list for getting out of a rut](https://www.jskherman.com/micro/list-for-getting-out-of-a-rut/)
 - [📋Things I always search for when working with Git](https://www.jskherman.com/gists/git-faqs/)
-- [📋mega-data.txt](https://www.jskherman.com/gists/mega-data-txt/)
 <!-- BLOG-POST-LIST:END -->
 
 [👉 *More Posts*](https://www.jskherman.com/)
