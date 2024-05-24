@@ -69,13 +69,13 @@
 
 ### 📊 GitHub Stats:
 
-<!-- ![](https://readme-stats-ten-alpha.vercel.app/api?username=jskherman&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+<!-- ![](https://github-readme-stats-blond-chi.vercel.app/api?username=jskherman&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 
 <a href="https://github.com/jskherman">
-  <img height='176px' align='center' src='https://readme-stats-ten-alpha.vercel.app/api?username=jskherman&rank_icon=github&theme=merko&hide_border=true&show_icons=true' />
+  <img height='176px' align='center' src='https://github-readme-stats-blond-chi.vercel.app/api?username=jskherman&rank_icon=github&theme=merko&hide_border=true&show_icons=true' />
 </a>
 <a href="https://jskherman.com">
-  <img height='175px' align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=jskherman&theme=merko&hide_border=true&card_width=320&layout=compact' />
+  <img height='175px' align="center" src='https://github-readme-stats-blond-chi.vercel.app/api/top-langs/?username=jskherman&theme=merko&hide_border=true&card_width=320&layout=compact' />
 </a>
 <br><br>
 <a href="https://howis.jskherman.com">
