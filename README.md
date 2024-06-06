@@ -44,13 +44,13 @@
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s surreal how I&#39;m learning business through VTubers](https://www.jskherman.com/blog/learning-business-through-vtubers/)
+- [imprecv](https://www.jskherman.com/projects/imprecv/)
+- [My wild ride down the VTuber rabbit hole... straight into business lessons](https://www.jskherman.com/blog/learning-business-through-vtubers/)
 - [📋obsidian_toggle_checkbox.md](https://www.jskherman.com/gists/obsidian-toggle-checkbox/)
 - [📋miniflux-themes.css](https://www.jskherman.com/gists/miniflux-themes-css/)
 - [📋Things I always search for when working with Git](https://www.jskherman.com/gists/git-faqs/)
 - [📋mega-data.txt](https://www.jskherman.com/gists/mega-data-txt/)
 - [📋statuscafe_parser.py](https://www.jskherman.com/gists/statuscafe-parser-py/)
-- [Interstitial journaling with Telegram and Obsidian](https://www.jskherman.com/blog/logs-in-telegram-obsidian/)
 <!-- BLOG-POST-LIST:END -->
 
 [👉 *More Posts*](https://www.jskherman.com/)
