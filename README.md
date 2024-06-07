@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Je Sian Keith Herman</h1>
-<h3 align="center">An INTJ Chemical Engineering student</h3><br>
+<h1 align="center">Hi, I'm Je Sian Keith Herman 👋</h1>
+<h3 align="center">An INTJ Chemical Engineer</h3><br>
 <img align="right" src="https://github.com/jskherman/jskherman/assets/68434444/6d0eeb9f-cf5f-407b-8e2f-da0c2ffc79a3" alt="programming GIF" height=300 />
 
 - 🔭  I’m currently working on a [personal dashboard on various statistics](https://howis.jskherman.com) about myself using data from various sources.<br>
 - 🌱  I’m currently learning Python and a little web development<br>
 - 💡  Not so Fun fact: I had once slept on the floor in a hotel abroad.[^1]<br>
 - ⚡  See other updates on my [Now page](https://www.jskherman.com/now).<br>
-- 📧  Contact me [directly](https://www.jskherman.com/about/#contact-me), on [Mastodon](https://mathstodon.xyz/@jskherman), or [LinkedIn](https://linkedin.com/in/jskherman).
+- 📧  Contact me [directly](https://www.jskherman.com/about/#socials), on [Mastodon](https://mathstodon.xyz/@jskherman), or [LinkedIn](https://linkedin.com/in/jskherman).
 
 [^1]: Don't try it. It was a unique experience but it's not worth it.
 
@@ -16,7 +16,7 @@
 
 <a href="https://www.jskherman.com" target="_blank"><img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fwww.jskherman.com" height="25" alt="website" /></a>&nbsp;
 <a href="https://github.com/jskherman"><img src="https://komarev.com/ghpvc/?username=jskherman&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count" /></a>&nbsp;
-<a href="https://paypal.me/jskherman" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="25" alt="paypal" /></a>&nbsp;
+<!--- <a href="https://paypal.me/jskherman" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="25" alt="paypal" /></a>&nbsp; --->
 
 <a href="https://linkedin.com/in/jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
 <a href="https://mathstodon.xyz/@jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=mastodon" alt="Mastodon" /></a>
