@@ -19,15 +19,15 @@
 <!--- <a href="https://paypal.me/jskherman" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="25" alt="paypal" /></a>&nbsp; --->
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/icloud.svg' alt='Website' height='40'>](https://www.jskherman.com)&ensp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/adobeacrobatreader.svg' alt='Curriculum Vitae ' height='40'>](https://go.jskherman.com/cv)&ensp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/jskherman/)&ensp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/github.svg' alt='GitHub' height='40'>](https://github.com/jskherman)&ensp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/mastodon.svg' alt='Mastodon' height='40'>](https://mathstodon.xyz/@jskherman)&ensp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter' height='40'>](https://twitter.com/jskherman)&ensp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/youtube.svg' alt='YouTube' height='40'>](https://youtube.com/watch?v=dQw4w9WgXcQ)&ensp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ko-fi.svg' alt='Ko-fi' height='40'>](https://ko-fi.com/jskherman)&ensp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='MBTI' height='40'>](https://www.16personalities.com/profiles/672b5e6d1fea7)
+[<img src='https://cdn.simpleicons.org/googlechrome' alt='Website' height='40'>](https://www.jskherman.com)&ensp;
+[<img src='https://cdn.simpleicons.org/adobeacrobatreader' alt='Curriculum Vitae ' height='40'>](https://go.jskherman.com/cv)&ensp;
+[<img src='https://cdn.simpleicons.org/linkedin' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/jskherman/)&ensp;
+[<img src='https://cdn.simpleicons.org/github/_/fff' alt='GitHub' height='40'>](https://github.com/jskherman)&ensp;
+[<img src='https://cdn.simpleicons.org/mastodon' alt='Mastodon' height='40'>](https://mathstodon.xyz/@jskherman)&ensp;
+[<img src='https://skillicons.dev/icons?i=twitter' alt='Twitter' height='40'>](https://twitter.com/jskherman)&ensp;
+[<img src='https://cdn.simpleicons.org/youtube' alt='YouTube' height='40'>](https://youtube.com/watch?v=dQw4w9WgXcQ)&ensp;
+[<img src='https://cdn.simpleicons.org/kofi' alt='Ko-fi' height='40'>](https://ko-fi.com/jskherman)&ensp;
+[<img src='https://cdn.simpleicons.org/aboutdotme/_/fff' alt='MBTI' height='40'>](https://www.16personalities.com/profiles/672b5e6d1fea7)
 
 <!---
 <a href="https://linkedin.com/in/jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&style=flat" alt="linkedin" /></a>
@@ -39,20 +39,14 @@
 </div>
 
 <p align="center">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/python.svg' alt='Python' height='40'>
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/html5.svg' alt='HTML' height='40'>
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/css3.svg' alt='CSS' height='40'>
-    <a href="https://typst.app/universe/package/imprecv"><img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/typst.svg' alt='Typst' height='40'></a>
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/latex.svg' alt='LaTeX' height='40'>
-    <img src="https://skillicons.dev/icons?i=matlab" alt='MATLAB' height='40' />
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/octave.svg' alt='GNU Octave' height='40'>
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/microsoftexcel.svg' alt='Microsoft Excel' height='40'>
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/git.svg' alt='Git' height='40'>
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/docker.svg' alt='Docker' height='40'>
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/visualstudiocode.svg' alt='Visual Studio Code' height='40'>
-    <a href="https://notes.jskherman.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/obsidian.svg' alt='Visual Studio Code' height='40'></a>
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/vivaldi.svg' alt='Vivaldi Browser' height='40'>
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/windows.svg' alt='Windows' height='40'>
+    <img src="https://skillicons.dev/icons?i=py,html,css" alt='Python, HTML5, CSS3' height='40' />
+    <a href="https://typst.app/universe/package/imprecv"><img src='https://cdn.simpleicons.org/typst' alt='Typst' height='40'></a>
+    <img src="https://skillicons.dev/icons?i=latex,matlab,octave" alt='LaTeX, MATLAB, GNU Octave' height='40' />
+    <!--- <img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/microsoftexcel.svg' alt='Microsoft Excel' height='40'> --->
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,git,docker" alt='Microsoft Excel, Git, Docker' height='40' />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,windows" alt='Visual Studio Code, Microsoft Windows' height='40' />
+    <a href="https://notes.jskherman.com"><img src='https://cdn.simpleicons.org/obsidian' alt='Obsidian' height='40'></a>
+    <img src='https://cdn.simpleicons.org/vivaldi' alt='Vivaldi Browser' height='40'>
 </p>
 <br>
 
