@@ -39,9 +39,9 @@
 </div>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,html,css" alt='Python, HTML5, CSS3' height='40' />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,html,css" alt='Python, HTML5, CSS3' height='40' />
     <a href="https://typst.app/universe/package/imprecv"><img src='https://cdn.simpleicons.org/typst' alt='Typst' height='40'></a>
-    <img src="https://skillicons.dev/icons?i=latex,matlab,octave" alt='LaTeX, MATLAB, GNU Octave' height='40' />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=latex,matlab,octave" alt='LaTeX, MATLAB, GNU Octave' height='40' />
     <!--- <img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/microsoftexcel.svg' alt='Microsoft Excel' height='40'> --->
     <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,git,docker" alt='Microsoft Excel, Git, Docker' height='40' />
     <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,windows" alt='Visual Studio Code, Microsoft Windows' height='40' />
