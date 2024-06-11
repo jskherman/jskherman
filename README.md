@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Je Sian Keith Herman 👋</h1>
-<h3 align="center">An INTJ Chemical Engineer</h3><br>
+<h3 align="center">INTJ Chemical Engineer and Data Enthusiast</h3><br>
 <img align="right" src="https://github.com/jskherman/jskherman/assets/68434444/6d0eeb9f-cf5f-407b-8e2f-da0c2ffc79a3" alt="programming GIF" height=300 />
 
-- 🔭  I’m currently working on: a [personal dashboard on various statistics](https://howis.jskherman.com) about myself using data from various sources.<br>
-- 🌱  I’m currently learning: Python and a little web development<br>
-- 💡  Not so Fun fact: I had once slept on the floor in a hotel abroad.[^1]<br>
-- ⚡  See other updates on my [Now page](https://www.jskherman.com/now).<br>
-- 📧  [Contact me using these links](https://www.jskherman.com/#socials).
+- **🔭  I’m currently working on**: a [quantified self dashboard](https://github.com/jskherman/qs-website) containing various statistics and data visualizations about using my personal data from various sources such as the local weather, exercise data, and time-tracking.<br>
+- **🌱  I’m currently learning**: Python and a little web development on the side.<br>
+- **💡  Not so Fun fact**: I had once slept on the floor in a hotel abroad.[^1]<br>
+- **⚡  See**: updates on my [Now page](https://www.jskherman.com/now).<br>
+- **📧  Contact me**: using [these links](https://www.jskherman.com/#socials) or the icons below.
 
 [^1]: Don't try it. It was a unique experience but it's not worth it.
 
