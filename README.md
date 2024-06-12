@@ -1,13 +1,13 @@
 # Hi world, I'm Je Sian Keith Herman 👋
 
-<img align="right" src="https://github.com/jskherman/jskherman/assets/68434444/6d0eeb9f-cf5f-407b-8e2f-da0c2ffc79a3" alt="programming GIF" height=300 />
+<!--- <img align="right" src="https://github.com/jskherman/jskherman/assets/68434444/6d0eeb9f-cf5f-407b-8e2f-da0c2ffc79a3" alt="programming GIF" height=300 /> --->
 <h4>
 
 [![GitHub Profile Views Badge](https://komarev.com/ghpvc/?username=jskherman&style=flat&label=views&color=brightgreen)](https://github.com/jskherman)
 [![Website Status Badge](https://img.shields.io/website?label=jskherman.com&down_message=offline&style=flat&up_message=online&url=https%3A%2F%2Fwww.jskherman.com)](https://www.jskherman.com)
 [![CV Badge](https://img.shields.io/badge/Résumé-ec1c24?style=flat&labelColor=ec1c24&logo=adobeacrobatreader&logoColor=white&link=https%3A%2F%2Fgo.jskherman.com%2Fcv)](https://go.jskherman.com/cv)
 [![MBTI Badge](https://img.shields.io/badge/-INTJ-000000?style=flat&labelColor=000000&logo=googlegemini&logoColor=white&link=https%3A%2F%2Fwww.16personalities.com%2Fprofiles%2F672b5e6d1fea7)](https://www.16personalities.com/profiles/672b5e6d1fea7)
-[![Email Badge](https://img.shields.io/badge/-Email_Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto%3AJe%20Sian%20Keith%20Herman%3Chello%40jskherman.com%3E)](mailto:Je%20Sian%20Keith%20Herman%3Chello%40jskherman.com%3E)<br>
+[![Email Badge](https://img.shields.io/badge/-Email_Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto%3AJe%20Sian%20Keith%20Herman%3Chello%40jskherman.com%3E)](mailto:Je%20Sian%20Keith%20Herman%3Chello%40jskherman.com%3E)
 [![Linkedin Badge](https://img.shields.io/badge/-jskherman-blue?style=flat&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjskherman)](https://www.linkedin.com/in/jskherman/)
 [![Mastodon Badge](https://img.shields.io/badge/-@jskherman-6364ff?style=flat&labelColor=6364ff&logo=mastodon&logoColor=white&link=https%3A%2F%2Fmathstodon.xyz%2F%40jskherman)](https://mathstodon.xyz/@jskherman)
 [![Twitter Badge](https://img.shields.io/badge/-@jskherman-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https%3A%2F%2Ftwitter.com%2Fjskherman)](https://twitter.com/jskherman)
