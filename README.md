@@ -1,6 +1,6 @@
-# Hi world, I'm Je Sian Keith Herman 👋
+<h1 align=center> Hi world, I'm Je Sian Keith Herman 👋</h1>
 
-<!--- <img align="right" src="https://github.com/jskherman/jskherman/assets/68434444/6d0eeb9f-cf5f-407b-8e2f-da0c2ffc79a3" alt="programming GIF" height=300 /> --->
+<img align="right" src="https://github.com/jskherman/jskherman/assets/68434444/6d0eeb9f-cf5f-407b-8e2f-da0c2ffc79a3" alt="programming GIF" height=300 />
 <h4>
 
 [![GitHub Profile Views Badge](https://komarev.com/ghpvc/?username=jskherman&style=flat&label=views&color=brightgreen)](https://github.com/jskherman)
@@ -19,10 +19,10 @@
     <a href="https://typst.app/universe/package/imprecv"><img src='https://cdn.simpleicons.org/typst' alt='Typst' height='40'></a>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=latex,matlab,octave" alt='LaTeX, MATLAB, GNU Octave' height='40' />
     <!--- <img src='https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/microsoftexcel.svg' alt='Microsoft Excel' height='40'> --->
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,git,docker" alt='Microsoft Excel, Git, Docker' height='40' />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker" alt='Microsoft Excel, Git, Docker' height='40' />
     <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,windows" alt='Visual Studio Code, Microsoft Windows' height='40' />
     <a href="https://notes.jskherman.com"><img src='https://cdn.simpleicons.org/obsidian' alt='Obsidian' height='40'></a>
-    <img src='https://cdn.simpleicons.org/vivaldi' alt='Vivaldi Browser' height='40'>
+    <!--- <img src='https://cdn.simpleicons.org/vivaldi' alt='Vivaldi Browser' height='40'> --->
 </p>
 
 - ✨ I am a Chemical Engineer, part-time coder, and data-driven person.
