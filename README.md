@@ -1,44 +1,20 @@
-<h1 align="center">Hi, I'm Je Sian Keith Herman 👋</h1>
-<h3 align="center">INTJ Chemical Engineer and Data Enthusiast</h3><br>
+# Hi world, I'm Je Sian Keith Herman 👋
+
+<h4>
+
+[![GitHub Profile Views Badge](https://komarev.com/ghpvc/?username=jskherman&style=flat&label=views&color=brightgreen)](https://github.com/jskherman)
+[![Website Status Badge](https://img.shields.io/website?label=jskherman.com&down_message=offline&style=flat&up_message=online&url=https%3A%2F%2Fwww.jskherman.com)](https://www.jskherman.com)
+[![CV Badge](https://img.shields.io/badge/Résumé-ec1c24?style=flat&labelColor=ec1c24&logo=adobeacrobatreader&logoColor=white&link=https%3A%2F%2Fgo.jskherman.com%2Fcv)](https://go.jskherman.com/cv)
+[![MBTI Badge](https://img.shields.io/badge/-INTJ-000000?style=flat&labelColor=000000&logo=googlegemini&logoColor=white&link=https%3A%2F%2Fwww.16personalities.com%2Fprofiles%2F672b5e6d1fea7)](https://www.16personalities.com/profiles/672b5e6d1fea7)
+[![Email Badge](https://img.shields.io/badge/-Email_Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto%3AJe%20Sian%20Keith%20Herman%3Chello%40jskherman.com%3E)](mailto:Je%20Sian%20Keith%20Herman%3Chello%40jskherman.com%3E)
+[![Linkedin Badge](https://img.shields.io/badge/-jskherman-blue?style=flat&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjskherman)](https://www.linkedin.com/in/jskherman/)
+[![Mastodon Badge](https://img.shields.io/badge/-@jskherman-6364ff?style=flat&labelColor=6364ff&logo=mastodon&logoColor=white&link=https%3A%2F%2Fmathstodon.xyz%2F%40jskherman)](https://mathstodon.xyz/@jskherman)
+[![Twitter Badge](https://img.shields.io/badge/-@jskherman-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https%3A%2F%2Ftwitter.com%2Fjskherman)](https://twitter.com/jskherman)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat&labelColor=ff0000&logo=youtube&logoColor=white&link=https%3A%2F%2Fyoutube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ)](https://youtube.com/watch?v=dQw4w9WgXcQ)
+[![Ko-fi Badge](https://img.shields.io/badge/-Buy_me_a_coffee%3F-ff5E5b?style=flat&labelColor=ff5E5b&logo=kofi&logoColor=white&link=https%3A%2F%2Fko-fi.com%2Fjskherman)](https://ko-fi.com/jskherman)
+</h4>
 <img align="right" src="https://github.com/jskherman/jskherman/assets/68434444/6d0eeb9f-cf5f-407b-8e2f-da0c2ffc79a3" alt="programming GIF" height=300 />
-
-- **🔭  I’m currently working on**: a [quantified self dashboard](https://github.com/jskherman/qs-website) containing various statistics and data visualizations about using my personal data from various sources such as the local weather, exercise data, and time-tracking.<br>
-- **🌱  I’m currently learning**: Python and a little web development on the side.<br>
-- **💡  Not so Fun fact**: I had once slept on the floor in a hotel abroad.[^1]<br>
-- **⚡  See**: updates on my [Now page](https://www.jskherman.com/now).<br>
-- **📧  Contact me**: using [these links](https://www.jskherman.com/#socials) or the icons below.
-
-[^1]: Don't try it. It was a unique experience but it's not worth it.
-
-### 💬 Socials and Stuff
-
-<div align="center">
-
-<a href="https://www.jskherman.com" target="_blank"><img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fwww.jskherman.com" height="25" alt="website" /></a>&nbsp;
-<a href="https://github.com/jskherman"><img src="https://komarev.com/ghpvc/?username=jskherman&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count" /></a>&nbsp;
-<!--- <a href="https://paypal.me/jskherman" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="25" alt="paypal" /></a>&nbsp; --->
-
-
-[<img src='https://cdn.simpleicons.org/googlechrome' alt='Website' height='40'>](https://www.jskherman.com)&ensp;
-[<img src='https://cdn.simpleicons.org/adobeacrobatreader' alt='Curriculum Vitae ' height='40'>](https://go.jskherman.com/cv)&ensp;
-[<img src='https://cdn.simpleicons.org/linkedin' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/jskherman/)&ensp;
-[<img src='https://cdn.simpleicons.org/github/_/fff' alt='GitHub' height='40'>](https://github.com/jskherman)&ensp;
-[<img src='https://cdn.simpleicons.org/mastodon' alt='Mastodon' height='40'>](https://mathstodon.xyz/@jskherman)&ensp;
-[<img src='https://skillicons.dev/icons?i=twitter' alt='Twitter' height='40'>](https://twitter.com/jskherman)&ensp;
-[<img src='https://cdn.simpleicons.org/youtube' alt='YouTube' height='40'>](https://youtube.com/watch?v=dQw4w9WgXcQ)&ensp;
-[<img src='https://cdn.simpleicons.org/kofi' alt='Ko-fi' height='40'>](https://ko-fi.com/jskherman)&ensp;
-[<img src='https://cdn.simpleicons.org/aboutdotme/_/fff' alt='MBTI' height='40'>](https://www.16personalities.com/profiles/672b5e6d1fea7)
-
-<!---
-<a href="https://linkedin.com/in/jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&style=flat" alt="linkedin" /></a>
-<a href="https://mathstodon.xyz/@jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=mastodon" alt="Mastodon" /></a>
-<a href="https://twitter.com/jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter" /></a>
-<a href="https://github.com/jskherman" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
---->
-
-</div>
-
-<p align="center">
+<p>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=py,html,css" alt='Python, HTML5, CSS3' height='40' />
     <a href="https://typst.app/universe/package/imprecv"><img src='https://cdn.simpleicons.org/typst' alt='Typst' height='40'></a>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=latex,matlab,octave" alt='LaTeX, MATLAB, GNU Octave' height='40' />
@@ -48,7 +24,18 @@
     <a href="https://notes.jskherman.com"><img src='https://cdn.simpleicons.org/obsidian' alt='Obsidian' height='40'></a>
     <img src='https://cdn.simpleicons.org/vivaldi' alt='Vivaldi Browser' height='40'>
 </p>
-<br>
+
+- ✨ I am a Chemical Engineer, part-time coder, and data-driven person.
+- 🔭  I’m currently working on a [quantified self dashboard](https://github.com/jskherman/qs-website) containing various statistics and data visualizations about using my personal data from various sources such as the local weather, exercise data, and time-tracking.
+- 🌱  I’m currently learning Python and a little web development on the side.
+- 💡  Not-So-Fun fact: I had once slept on the floor in a hotel abroad.[^1]
+- ⚡  See updates on my [Now page](https://www.jskherman.com/now).
+- 📧  Contact me using [these links](https://www.jskherman.com/#socials) or the icons above.[^2]
+
+[^1]: Don't try it. It was a unique experience but it's not worth it.
+[^2]: I'd love to connect especially if you want talk about data and quantified self experiments!
+
+---
 
 <table><tr><td valign="top" width="55%">
 
