@@ -1,4 +1,4 @@
-# Hi world, I'm Je Sian Keith Herman 👋
+# Hi, I'm Je Sian Keith Herman 👋
 
 <img align="right" src="https://github.com/jskherman/jskherman/assets/68434444/6d0eeb9f-cf5f-407b-8e2f-da0c2ffc79a3" alt="programming GIF" height=300 />
 <h4>
