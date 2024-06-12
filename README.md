@@ -1,6 +1,6 @@
 ## Hi, I'm Je Sian Keith Herman
 
-<img align="right" src="https://github.com/jskherman/jskherman/assets/68434444/6d0eeb9f-cf5f-407b-8e2f-da0c2ffc79a3" alt="programming GIF" height=300 />
+<img align="right" src="https://github.com/jskherman/jskherman/assets/68434444/6d0eeb9f-cf5f-407b-8e2f-da0c2ffc79a3" alt="programming GIF" height=200 />
 <h4>
 
 [![GitHub Profile Views Badge](https://komarev.com/ghpvc/?username=jskherman&style=flat&label=views&color=brightgreen)](https://github.com/jskherman)
