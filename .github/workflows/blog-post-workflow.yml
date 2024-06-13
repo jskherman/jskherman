@@ -17,12 +17,12 @@ jobs:
           remove_duplicates: true
           comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://www.jskherman.com/feed.xml"
-          max_post_count: 7
-      # - name: Pull in Notes
-      #   uses: gautamkrishnar/blog-post-workflow@master
-      #   with:
-      #     remove_duplicates: false
-      #     comment_tag_name: "ZK-NOTE-LIST"
-      #     feed_list: "https://ztk.jskherman.com/index.xml"
-      #     max_post_count: 7
-      #     disable_item_validation: true
+          max_post_count: 10
+      - name: Pull in Notes
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          remove_duplicates: false
+          comment_tag_name: "NOTE-LIST"
+          feed_list: "https://notes.jskherman.com/index.xml"
+          max_post_count: 10
+          disable_item_validation: true

@@ -54,21 +54,36 @@
 
 [👉 *More Posts*](https://www.jskherman.com/)
 
+### 🗒️ Recent Notes
+
+<!-- NOTE-LIST:START -->
+<!-- NOTE-LIST:END -->
+
+[👉 *More Notes*](https://notes.jskherman.com/)
+
 </td>
 
-<!-- <td valign="top" width="45%">
+<td valign="top" width="45%">
 
-### 💡 Another Section
+### 📊 GitHub Stats
 
-</td> -->
+<p align="center">
+<picture><img width="100%" src='https://github-readme-streak-stats.herokuapp.com/?user=jskherman&theme=merko&hide_border=true' /></picture>
+
+<picture><img src="/github-metrics.svg" alt="Metrics" width="60%"></picture>
+</p>
+
+</td>
 </tr></table>
 
 <!-- ### ✍️ Random Quote -->
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
+
+<!-- 
 ### 📊 GitHub Stats:
 
-<!-- ![](https://github-readme-stats-blond-chi.vercel.app/api?username=jskherman&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+![](https://github-readme-stats-blond-chi.vercel.app/api?username=jskherman&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 <a href="https://github.com/jskherman">
   <img height='176px' align='center' src='https://github-readme-stats-blond-chi.vercel.app/api?username=jskherman&rank_icon=github&theme=merko&hide_border=true&show_icons=true' />
@@ -84,9 +99,11 @@
   <img height='175px' align="center" src='http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jskherman&theme=github_dark&utcOffset=8' />
 </a>
 
+
 <details><summary>More stats</summary>
 <p align="center">
 <picture><img src="/github-metrics.svg" alt="Metrics" width="60%"></picture>
 </p>
 </details>
 
+-->
