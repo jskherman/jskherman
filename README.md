@@ -84,3 +84,9 @@
   <img height='175px' align="center" src='http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jskherman&theme=github_dark&utcOffset=8' />
 </a>
 
+<details><summary>More stats</summary>
+<p align="center">
+<picture><img src="/github-metrics.svg" alt="Metrics" width="400"></picture>
+</p>
+</details>
+
