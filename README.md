@@ -26,12 +26,6 @@
 </p>
 <!--- <img align="right" src="https://github.com/jskherman/jskherman/assets/68434444/6d0eeb9f-cf5f-407b-8e2f-da0c2ffc79a3" alt="programming GIF" height=200 /> --->
 
----
-
-<table><tr><td valign="top" width="49%">
-
-### 🔎 About
-
 - ✨ I am a Chemical Engineer, part-time coder, and data-driven person.
 - 🔭  I’m currently working on a [quantified self dashboard](https://github.com/jskherman/qs-website) containing various statistics and data visualizations about using my personal data from various sources such as the local weather, exercise data, and time-tracking.
 - 🌱  I’m currently learning Python and a little web development on the side.
@@ -41,6 +35,9 @@
 
 [^1]: Don't try it. It was a unique experience but it's not worth it.
 [^2]: I'd love to connect especially if you want talk about data and quantified self experiments!
+---
+
+<table><tr><td valign="top" width="51%">
 
 ### 📝 Recent Blog Posts
 
@@ -59,6 +56,11 @@
 
 [👉 *More Posts*](https://www.jskherman.com/)
 
+
+</td>
+
+<td valign="top" width="49%">
+
 ### 🗒️ Recent Notes
 
 <!-- NOTE-LIST:START -->
@@ -71,29 +73,16 @@
 
 [👉 *More Notes*](https://notes.jskherman.com/)
 
-</td>
-
-<td valign="top" width="51%">
-
-### 📊 GitHub Stats
-
-<p align="center">
-<picture><img width="100%" src='https://github-readme-streak-stats.herokuapp.com/?user=jskherman&theme=merko&hide_border=true' /></picture>
-
-<picture><img src="/github-metrics.svg" alt="Metrics" width="100%"></picture>
-</p>
+<!-- ### ✍️ Random Quote -->
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 </td>
 </tr></table>
 
-<!-- ### ✍️ Random Quote -->
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
-
-<!-- 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats-blond-chi.vercel.app/api?username=jskherman&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!--- ![](https://github-readme-stats-blond-chi.vercel.app/api?username=jskherman&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/> --->
 
 <a href="https://github.com/jskherman">
   <img height='176px' align='center' src='https://github-readme-stats-blond-chi.vercel.app/api?username=jskherman&rank_icon=github&theme=merko&hide_border=true&show_icons=true' />
@@ -115,5 +104,3 @@
 <picture><img src="/github-metrics.svg" alt="Metrics" width="60%"></picture>
 </p>
 </details>
-
--->
