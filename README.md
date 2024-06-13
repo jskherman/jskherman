@@ -50,6 +50,9 @@
 - [📋Things I always search for when working with Git](https://www.jskherman.com/gists/git-faqs/)
 - [📋mega-data.txt](https://www.jskherman.com/gists/mega-data-txt/)
 - [📋statuscafe_parser.py](https://www.jskherman.com/gists/statuscafe-parser-py/)
+- [Interstitial journaling with Telegram and Obsidian](https://www.jskherman.com/blog/logs-in-telegram-obsidian/)
+- [Forcing my phone to only use 5G](https://www.jskherman.com/blog/forcing-5g/)
+- [Adapting Gilles Castel’s LaTeX snippets for Typst](https://www.jskherman.com/blog/typst-snippets/)
 <!-- BLOG-POST-LIST:END -->
 
 [👉 *More Posts*](https://www.jskherman.com/)
