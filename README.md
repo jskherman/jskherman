@@ -26,6 +26,12 @@
 </p>
 <!--- <img align="right" src="https://github.com/jskherman/jskherman/assets/68434444/6d0eeb9f-cf5f-407b-8e2f-da0c2ffc79a3" alt="programming GIF" height=200 /> --->
 
+---
+
+<table><tr><td valign="top" width="49%">
+
+### 🔎 About
+
 - ✨ I am a Chemical Engineer, part-time coder, and data-driven person.
 - 🔭  I’m currently working on a [quantified self dashboard](https://github.com/jskherman/qs-website) containing various statistics and data visualizations about using my personal data from various sources such as the local weather, exercise data, and time-tracking.
 - 🌱  I’m currently learning Python and a little web development on the side.
@@ -35,10 +41,6 @@
 
 [^1]: Don't try it. It was a unique experience but it's not worth it.
 [^2]: I'd love to connect especially if you want talk about data and quantified self experiments!
-
----
-
-<table><tr><td valign="top" width="45%">
 
 ### 📝 Recent Blog Posts
 
@@ -71,7 +73,7 @@
 
 </td>
 
-<td valign="top" width="55%">
+<td valign="top" width="51%">
 
 ### 📊 GitHub Stats
 
