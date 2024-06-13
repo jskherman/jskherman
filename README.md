@@ -86,7 +86,7 @@
 
 <details><summary>More stats</summary>
 <p align="center">
-<picture><img src="/github-metrics.svg" alt="Metrics" width="400"></picture>
+<picture><img src="/github-metrics.svg" alt="Metrics" width="60%"></picture>
 </p>
 </details>
 
