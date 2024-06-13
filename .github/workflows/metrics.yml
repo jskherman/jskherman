@@ -34,10 +34,10 @@ jobs:
           base_indepth: yes
           commits_authoring: jskherman,68434444+jskherman@users.noreply.github.com
           config_timezone: Asia/Manila
-          plugin_16personalities: yes
-          plugin_16personalities_scores: yes
-          plugin_16personalities_sections: personality, profile, traits
-          plugin_16personalities_url: "https://www.16personalities.com/profiles/672b5e6d1fea7"
+          # plugin_16personalities: yes
+          # plugin_16personalities_scores: yes
+          # plugin_16personalities_sections: personality, profile, traits
+          # plugin_16personalities_url: "https://www.16personalities.com/profiles/672b5e6d1fea7"
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_limit: 0
