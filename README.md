@@ -38,7 +38,7 @@
 
 ---
 
-<table><tr><td valign="top" width="55%">
+<table><tr><td valign="top" width="45%">
 
 ### 📝 Recent Blog Posts
 
@@ -63,14 +63,14 @@
 
 </td>
 
-<td valign="top" width="45%">
+<td valign="top" width="55%">
 
 ### 📊 GitHub Stats
 
 <p align="center">
 <picture><img width="100%" src='https://github-readme-streak-stats.herokuapp.com/?user=jskherman&theme=merko&hide_border=true' /></picture>
 
-<picture><img src="/github-metrics.svg" alt="Metrics" width="60%"></picture>
+<picture><img src="/github-metrics.svg" alt="Metrics" width="100%"></picture>
 </p>
 
 </td>
