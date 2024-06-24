@@ -64,11 +64,11 @@
 ### 🗒️ Recent Notes
 
 <!-- NOTE-LIST:START -->
-- [on my personal knowledge management system](https://notes.jskherman.com/1+meta/%7B1a%7D-on-my-personal-knowledge-management-system)
-- [Welcome to the Vault](https://notes.jskherman.com/)
 - [system index](https://notes.jskherman.com/0+index/%7B0a%7D-system-index)
-- [notes on converting markdown to other formats](https://notes.jskherman.com/1+meta/%7B1b%7D-notes-on-converting-markdown-to-other-formats)
-- [project information template](https://notes.jskherman.com/2+rsrc/%7B2a%7D-project-information-template)
+- [{1a} on my personal knowledge management system](https://notes.jskherman.com/1+meta/%7B1a%7D-on-my-personal-knowledge-management-system)
+- [{1b} notes on converting markdown to other formats](https://notes.jskherman.com/1+meta/%7B1b%7D-notes-on-converting-markdown-to-other-formats)
+- [{2a} project information template](https://notes.jskherman.com/2+rsrc/%7B2a%7D-project-information-template)
+- [Welcome to the Vault](https://notes.jskherman.com/)
 <!-- NOTE-LIST:END -->
 
 [👉 *More Notes*](https://notes.jskherman.com/)
