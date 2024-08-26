@@ -42,6 +42,7 @@
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [📋process_engineer_jd.md](https://www.jskherman.com/gists/process-engineer-jd/)
 - [imprecv](https://www.jskherman.com/projects/imprecv/)
 - [My wild ride down the VTuber rabbit hole... straight into business lessons](https://www.jskherman.com/blog/learning-business-through-vtubers/)
 - [📋obsidian_toggle_checkbox.md](https://www.jskherman.com/gists/obsidian-toggle-checkbox/)
@@ -51,7 +52,6 @@
 - [📋statuscafe_parser.py](https://www.jskherman.com/gists/statuscafe-parser-py/)
 - [Interstitial journaling with Telegram and Obsidian](https://www.jskherman.com/blog/logs-in-telegram-obsidian/)
 - [Forcing my phone to only use 5G](https://www.jskherman.com/blog/forcing-5g/)
-- [Adapting Gilles Castel’s LaTeX snippets for Typst](https://www.jskherman.com/blog/typst-snippets/)
 <!-- BLOG-POST-LIST:END -->
 
 [👉 *More Posts*](https://www.jskherman.com/)
