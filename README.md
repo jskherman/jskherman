@@ -42,16 +42,16 @@
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [📋process_engineer_jd.md](https://www.jskherman.com/gists/process-engineer-jd/)
+- [📋process_engineer_jd.md](https://www.jskherman.com/gists/process_engineer_jd/)
 - [imprecv](https://www.jskherman.com/projects/imprecv/)
-- [📋obsidian_toggle_checkbox.md](https://www.jskherman.com/gists/obsidian-toggle-checkbox/)
-- [📋miniflux-themes.css](https://www.jskherman.com/gists/miniflux-themes-css/)
+- [📋excells2typst.py](https://www.jskherman.com/gists/excells2typst.py/)
+- [📋obsidian_toggle_checkbox.md](https://www.jskherman.com/gists/obsidian_toggle_checkbox/)
+- [📋miniflux-themes.css](https://www.jskherman.com/gists/miniflux-themes.css/)
+- [Privacy Policy](https://www.jskherman.com/privacy/)
+- [📋mega-data.txt](https://www.jskherman.com/gists/mega-data.txt/)
 - [📋Things I always search for when working with Git](https://www.jskherman.com/gists/git-faqs/)
-- [📋mega-data.txt](https://www.jskherman.com/gists/mega-data-txt/)
-- [📋statuscafe_parser.py](https://www.jskherman.com/gists/statuscafe-parser-py/)
+- [📋statuscafe_parser.py](https://www.jskherman.com/gists/statuscafe_parser.py/)
 - [Interstitial journaling with Telegram and Obsidian](https://www.jskherman.com/blog/logs-in-telegram-obsidian/)
-- [Forcing my phone to only use 5G](https://www.jskherman.com/blog/forcing-5g/)
-- [Adapting Gilles Castel’s LaTeX snippets for Typst](https://www.jskherman.com/blog/typst-snippets/)
 <!-- BLOG-POST-LIST:END -->
 
 [👉 *More Posts*](https://www.jskherman.com/)
