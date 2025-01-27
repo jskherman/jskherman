@@ -42,6 +42,9 @@
 ### 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Test Note](https://www.jskherman.com/private/test-note/)
+- [Moonshots: An Impossible List](https://www.jskherman.com/moonshots/)
+- [What I Use](https://www.jskherman.com/uses/)
 - [📋process_engineer_jd.md](https://www.jskherman.com/gists/process_engineer_jd/)
 - [imprecv](https://www.jskherman.com/projects/imprecv/)
 - [📋excells2typst.py](https://www.jskherman.com/gists/excells2typst.py/)
@@ -49,9 +52,6 @@
 - [📋miniflux-themes.css](https://www.jskherman.com/gists/miniflux-themes.css/)
 - [Privacy Policy](https://www.jskherman.com/privacy/)
 - [📋mega-data.txt](https://www.jskherman.com/gists/mega-data.txt/)
-- [📋Things I always search for when working with Git](https://www.jskherman.com/gists/git-faqs/)
-- [📋statuscafe_parser.py](https://www.jskherman.com/gists/statuscafe_parser.py/)
-- [Interstitial journaling with Telegram and Obsidian](https://www.jskherman.com/blog/logs-in-telegram-obsidian/)
 <!-- BLOG-POST-LIST:END -->
 
 [👉 *More Posts*](https://www.jskherman.com/)
