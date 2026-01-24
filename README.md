@@ -1,15 +1,14 @@
-## Hi, I'm Je Sian Keith Herman
+## Hi, I'm Jesh
 
 <h4>
 
 [![GitHub Profile Views Badge](https://komarev.com/ghpvc/?username=jskherman&style=flat&label=views&color=brightgreen)](https://github.com/jskherman)
 [![Website Status Badge](https://img.shields.io/website?label=jskherman.com&down_message=offline&style=flat&up_message=online&url=https%3A%2F%2Fwww.jskherman.com)](https://www.jskherman.com)
-[![CV Badge](https://img.shields.io/badge/Résumé-ec1c24?style=flat&labelColor=ec1c24&logo=adobeacrobatreader&logoColor=white&link=https%3A%2F%2Fgo.jskherman.com%2Fcv)](https://go.jskherman.com/cv)
+[![CV Badge](https://img.shields.io/badge/Résumé-ec1c24?style=flat&labelColor=ec1c24&logo=readdotcv&logoColor=white&link=https%3A%2F%2Fgo.jskherman.com%2Fcv)](https://go.jskherman.com/cv)
 [![MBTI Badge](https://img.shields.io/badge/-INTJ-000000?style=flat&labelColor=000000&logo=googlegemini&logoColor=white&link=https%3A%2F%2Fwww.16personalities.com%2Fprofiles%2F672b5e6d1fea7)](https://www.16personalities.com/profiles/672b5e6d1fea7)
 [![Email Badge](https://img.shields.io/badge/-Email_Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto%3AJe%20Sian%20Keith%20Herman%3Chello%40jskherman.com%3E)](mailto:Je%20Sian%20Keith%20Herman%3Chello%40jskherman.com%3E)
-[![Linkedin Badge](https://img.shields.io/badge/-jskherman-blue?style=flat&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjskherman)](https://www.linkedin.com/in/jskherman/)
+[![Linkedin Badge](https://img.shields.io/badge/-jskherman-blue?style=flat&logo=readthedocs&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjskherman)](https://www.linkedin.com/in/jskherman/)
 [![Mastodon Badge](https://img.shields.io/badge/-@jskherman-6364ff?style=flat&labelColor=6364ff&logo=mastodon&logoColor=white&link=https%3A%2F%2Fmathstodon.xyz%2F%40jskherman)](https://mathstodon.xyz/@jskherman)
-[![Twitter Badge](https://img.shields.io/badge/-@jskherman-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https%3A%2F%2Ftwitter.com%2Fjskherman)](https://twitter.com/jskherman)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat&labelColor=ff0000&logo=youtube&logoColor=white&link=https%3A%2F%2Fyoutube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ)](https://youtube.com/watch?v=dQw4w9WgXcQ)
 [![Ko-fi Badge](https://img.shields.io/badge/-Buy_me_a_coffee%3F-ff5E5b?style=flat&labelColor=ff5E5b&logo=kofi&logoColor=white&link=https%3A%2F%2Fko-fi.com%2Fjskherman)](https://ko-fi.com/jskherman)
 </h4>
@@ -35,72 +34,4 @@
 
 [^1]: Don't try it. It was a unique experience but it's not worth it.
 [^2]: I'd love to connect especially if you want talk about data and quantified self experiments!
----
 
-<table><tr><td valign="top" width="51%">
-
-### 📝 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [A Test Note](https://www.jskherman.com/private/test-note/)
-- [Moonshots: An Impossible List](https://www.jskherman.com/moonshots/)
-- [What I Use](https://www.jskherman.com/uses/)
-- [📋process_engineer_jd.md](https://www.jskherman.com/gists/process_engineer_jd/)
-- [imprecv](https://www.jskherman.com/projects/imprecv/)
-- [📋excells2typst.py](https://www.jskherman.com/gists/excells2typst.py/)
-- [📋obsidian_toggle_checkbox.md](https://www.jskherman.com/gists/obsidian_toggle_checkbox/)
-- [📋miniflux-themes.css](https://www.jskherman.com/gists/miniflux-themes.css/)
-- [Privacy Policy](https://www.jskherman.com/privacy/)
-- [📋mega-data.txt](https://www.jskherman.com/gists/mega-data.txt/)
-<!-- BLOG-POST-LIST:END -->
-
-[👉 *More Posts*](https://www.jskherman.com/)
-
-
-</td>
-
-<td valign="top" width="49%">
-
-### 🗒️ Recent Notes
-
-<!-- NOTE-LIST:START -->
-- [{a1} system index](https://notes.jskherman.com/%7Ba1%7D-system-index)
-- [{b1} on my personal knowledge management system](https://notes.jskherman.com/%7Bb1%7D-on-my-personal-knowledge-management-system)
-- [{b2} notes on converting markdown to other formats](https://notes.jskherman.com/%7Bb2%7D-notes-on-converting-markdown-to-other-formats)
-- [{c1} project information template](https://notes.jskherman.com/%7Bc1%7D-project-information-template)
-- [Welcome to the Vault](https://notes.jskherman.com/)
-<!-- NOTE-LIST:END -->
-
-[👉 *More Notes*](https://notes.jskherman.com/)
-
-<!-- ### ✍️ Random Quote -->
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
-
-</td>
-</tr></table>
-
-
-### 📊 GitHub Stats:
-
-<!--- ![](https://github-readme-stats-blond-chi.vercel.app/api?username=jskherman&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/> --->
-
-<a href="https://github.com/jskherman">
-  <img height='176px' align='center' src='https://github-readme-stats-blond-chi.vercel.app/api?username=jskherman&rank_icon=github&theme=merko&hide_border=true&show_icons=true' />
-</a>
-<a href="https://jskherman.com">
-  <img height='175px' align="center" src='https://github-readme-stats-blond-chi.vercel.app/api/top-langs/?username=jskherman&theme=merko&hide_border=true&card_width=320&layout=compact' />
-</a>
-<br><br>
-<a href="https://howis.jskherman.com">
-  <img height='175px' align="center" src='https://github-readme-streak-stats.herokuapp.com/?user=jskherman&theme=merko&hide_border=true' />
-</a>
-<a href="https://mathstodon.xyz/@jskherman">
-  <img height='175px' align="center" src='http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jskherman&theme=github_dark&utcOffset=8' />
-</a>
-
-
-<details><summary>More stats</summary>
-<p align="center">
-<picture><img src="/github-metrics.svg" alt="Metrics" width="60%"></picture>
-</p>
-</details>
